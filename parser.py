@@ -17,7 +17,7 @@ def parse_names():
         words = line.split()
         if len(words) > 1:
             key = words[0][:-2]
-            value = words[1].strip('"')
+            value = " ".join(words[1:]).strip('"')
             names[key] = value
 
 def parse_dev():
