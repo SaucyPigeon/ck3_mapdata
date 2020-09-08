@@ -110,6 +110,32 @@ def parse_titles():
                                             titles[key_e][key_k][key_d][key_c][key_b] = \
                                                 titles_tree[key_e][key_k][key_d][key_c][key_b]["province"]
 
+def print_baronies():
+    outfile = open("baronies.txt", "w", encoding='utf8')
+    outfile.write('{| class="wikitable sortable mw-collapsible" style="text-align: left;"\n'
+                  '|+ Counties\n'
+                  '|-\n'
+                  '! rowspan="2" | Barony\n'
+                  '! rowspan="2" | [[Counties|County]]\n'
+                  '! rowspan="2" | Holding slots\n'
+                  '! rowspan="2" | [[Barony#Buildings|Special Buildings/Slots]]\n'
+                  '! rowspan="2" | ID\n'
+                  '|-\n')
+    for empire in titles.keys():
+        for kingdom in titles[empite].keys():
+            for duchy in titles[empire][kingdom].keys():
+                for county in titles[empire][kingdom][duchy].keys():
+                    for barony in titles[empire][kingdom][duchy][county].keys():
+                        
+                        outfile.write('|-\n!style = "background-color:rgb({},{},{})" | {}\n | {} || {} || '
+                                      '{} || align="right"| {} || align="right"| {} || align="right"| {} || '
+                                  'align="right"| {} || {}\n'.format(
+                        colors[county][0], colors[county][1], colors[county][2], names[barony], names[county],
+                        holding_slots[barony], names[empire], baronies, county_dev_867, county_dev_1066, special_buildings,
+                        county))
+                        
+                        
+
 
 def print_counties():
     outfile = open("counties.txt", "w", encoding='utf8')
@@ -319,6 +345,7 @@ parse_titles()
 parse_dev()
 parse_special()
 parse_names()
+print_baronies()
 print_counties()
 print_dutchies()
 print_kingdoms()
