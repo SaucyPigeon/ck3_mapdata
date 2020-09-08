@@ -9,9 +9,15 @@ names = {}
 colors = {}
 capitals = {}
 
-def parse_names():
+# Traits
+# Also detect traits with non-matching ids (for console)
+traits = {}
+
+
+def parse_names(filename):
+    names.clear()
     name_file = open(
-        'C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\localization\english\\titles_l_english.yml',
+        'C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\localization\english\\' + filename + '.yml',
         "r", encoding='utf8')
     for line in name_file:
         words = line.split()
@@ -340,14 +346,40 @@ def print_empires():
                        ', '.join(dejure_kingdoms), dutchies, counties, empire, capital))
     outfile.write("|}")
 
+def print_traits():
+    outfile = open("traits.txt", "w", encoding='utf8')
+    outfile.write('')
+
+    for trait in names.keys():
+        if trait.startswith('trait'):
+            if not trait.endswith('_desc'):
+                # Remove trait_ from beginning
+                traitid = trait[6:]
+                
+                traitname = names[trait]
+                traitname = traitname.replace(' ', '_')
+                traitname = traitname.replace('\'', '')
+                traitname = traitname.replace('-', '_')
+                traitname = traitname.lower()
+                outfile.write(traitid + ": " + names[trait])
+                # Mark disimilar trait names
+                if traitname != traitid:
+                    outfile.write('*')
+                outfile.write('\n')
+
+    print("Completed writing traits to file.")
+
 
 parse_titles()
 parse_dev()
 parse_special()
-parse_names()
-print_baronies()
+parse_names('titles_l_english')
+#print_baronies()
 print_counties()
 print_dutchies()
 print_kingdoms()
 print_empires()
+
+parse_names('traits_l_english')
+print_traits()
 
