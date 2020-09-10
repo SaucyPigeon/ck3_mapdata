@@ -13,7 +13,13 @@ capitals = {}
 # Also detect traits with non-matching ids (for console)
 traits = {}
 
+# Religions/holy orders
+# Religions: holy_orders
+# Faiths: holy_orders
+religions = {}
+faiths = {}
 
+# Parse localization file
 def parse_names(filename):
     names.clear()
     name_file = open(
@@ -115,6 +121,31 @@ def parse_titles():
                                         if key_b[:2] == "b_":
                                             titles[key_e][key_k][key_d][key_c][key_b] = \
                                                 titles_tree[key_e][key_k][key_d][key_c][key_b]["province"]
+
+
+def parse_religion(filename):
+    religions_tree = pyradox.txt.parse_file(
+        filename,
+        game="Stellaris")
+
+    print('Parsing religion ' + filename)
+
+    # Religions
+    for key_r in list(religions_tree.keys()):
+        religion[key_r] = {}
+        holy_order = list(religions_tree[key_r].find_all('holy_order_names'))
+        print(holy_order)
+
+def parse_holy_orders():
+    religion_folder = r'C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\common\religion\religions'
+
+    print(os.listdir(religion_folder))
+
+    for filename in os.listdir(religion_folder):
+        print('Found file: ' + filename)
+        if filename.endswith('.txt'):
+            parse_religion(filename)
+    
 
 def print_baronies():
     outfile = open("baronies.txt", "w", encoding='utf8')
@@ -370,16 +401,19 @@ def print_traits():
     print("Completed writing traits to file.")
 
 
-parse_titles()
-parse_dev()
-parse_special()
-parse_names('titles_l_english')
-#print_baronies()
-print_counties()
-print_dutchies()
-print_kingdoms()
-print_empires()
+if False:
+    parse_titles()
+    parse_dev()
+    parse_special()
+    parse_names('titles_l_english')
+    #print_baronies()
+    print_counties()
+    print_dutchies()
+    print_kingdoms()
+    print_empires()
 
-parse_names('traits_l_english')
-print_traits()
+    parse_names('traits_l_english')
+    print_traits()
+
+parse_holy_orders()
 

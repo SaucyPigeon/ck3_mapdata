@@ -1,0 +1,224 @@
+﻿
+akom_religion = {
+{ name = "holy_order_guardians_of_divinerealm" }
+{ name = "holy_order_faithful_of_highgod" }
+{ name = "holy_order_warriors_of_the_symbol" }
+akom_pagan = {
+﻿baltic_religion = {
+{ name = "holy_order_chosen_of_perkunas" }
+{ name = "holy_order_guardians_of_divinerealm" }
+{ name = "holy_order_faithful_of_highgod" }
+{ name = "holy_order_warriors_of_the_symbol" }
+baltic_pagan = {
+﻿bon_religion = {
+compassionate
+{ name = "holy_order_guardians_of_the_five" }
+bon_creator_god_name
+bon_health_god_name
+bon_wealth_god_name
+bon_knowledge_god_name
+bon_war_god_name
+bon = {
+old_bon = {
+﻿buddhism_religion = {
+generous
+honest
+deceitful
+impatient
+wrathful
+{ name = "holy_order_chosen_of_ashoka" }
+{ name = "holy_order_guardians_of_bodh_gaya" }
+{ name = "holy_order_sangha_of_the_struggle" }
+{ name = "holy_order_warriors_of_the_illuminated_heart" }
+{ name = "holy_order_shakyan_faithful" }
+theravada = {
+mahayana = {
+vajrayana = {
+ari = {
+lamaism = { # Nangchos aka Tibetan Buddhism - syncretic of Mahayana, Vajrayana and native Tibetan elements
+﻿christianity_religion = {
+reserved_male_names = {
+Andrew Antoninus Bartolomeus Benedict Christian Christopher Clement Constantine David Demetrius Eustace George Gregory
+Hans Isaac Joakim Jacob John Jordan Joseph Laurence Magnus Marcus Martin Matthew Michael Nicholas Patrick Paul Peter Philip
+Salvador Samuel Sebastian Simon Stephen Thomas Abraham Alexander Daniel Jesus Job Joshua Cyrus Luke Zachariah
+reserved_female_names = {
+Anna Beatrice Benedicta Brigid Catherine Cecilia Christina Clementia Constance Dorothy Elisabeth Joan Judith Juliana Helen
+Magdalena Margaret Maria Marine Patricia Philippa Rachel Sarah Sophia Stephania
+{ name = "holy_order_knights_of_the_chalice" }
+{ name = "holy_order_order_of_the_holy_communion" }
+{ name = "holy_order_knights_of_the_first_gospel" }
+{ name = "holy_order_guardians_of_the_shroud" }
+{ name = "holy_order_knights_of_the_reliquary" }
+{ name = "holy_order_warriors_of_the_cross" }
+{ name = "holy_order_christian" coat_of_arms = "ho_christian" }
+piety_icon_group = "christian"
+catholic = {
+religious_head = k_papal_state
+{ name = "holy_order_knights_templar" coat_of_arms = "ho_knights_templar" }
+{ name = "holy_order_knights_hospitaller" coat_of_arms = "ho_knights_hospitaller"  }
+{ name = "holy_order_teutonic_order" coat_of_arms = "ho_teutonic_order"  }
+{ name = "holy_order_order_of_calatrava" coat_of_arms = "ho_order_of_calatrava"  }
+{ name = "holy_order_order_of_alcantara" coat_of_arms = "ho_order_of_alcantara"  }
+{ name = "holy_order_knights_of_santiago" coat_of_arms = "ho_knights_of_santiago"  }
+orthodox = {
+religious_head = k_orthodox
+{ name = "holy_order_brotherhood_of_the_holy_sepulchre" }
+{ name = "holy_order_knights_of_the_first_patrirchate" }
+{ name = "holy_order_order_of_the_holy_virgin" }
+coptic = {
+religious_head = d_coptic_papacy
+{ name = "holy_order_order_of_saint_anthony" }
+armenian_apostolic = {
+religious_head = d_apostolic_church
+conversos = {
+cathar = {
+waldensian = {
+lollard = {
+religious_head = d_iconoclast
+bogomilist = {
+paulician  = {
+nestorian = {
+religious_head = d_patriarchate_in_the_east
+{ name = "holy_order_order_of_saint_addai" }
+messalian = {
+adamites = {
+insular_celtic = {
+{ name = "holy_order_order_of_saint_patrick" coat_of_arms = "ho_order_of_saint_patrick" }
+bosnian_church = {
+﻿tani_religion = {
+{ name = "holy_order_warriors_of_mother_sun" }
+{ name = "holy_order_warriors_of_father_moon" }
+{ name = "holy_order_warriors_of_highgod" }
+{ name = "holy_order_warriors_of_the_temple_of_place" }
+donyipoloism = {
+sedism = {
+﻿dualism_religion = {
+reserved_male_names = {
+Hormazd Maziar Shapur Vandad Zartosht
+{ name = "holy_order_army_of_light" }
+{ name = "holy_order_dreamers_of_place" }
+{ name = "holy_order_servants_of_the_patricians_of_light" }
+manichean = {
+mandeaism = {
+sabianism = {
+valentinianism = {
+sethianism = {
+priscillianism = {
+cainitism = {
+﻿finno_ugric_religion = {
+{ name = "holy_order_sons_of_kalevala" }
+{ name = "holy_order_guardians_of_divinerealm" }
+{ name = "holy_order_faithful_of_highgod" }
+{ name = "holy_order_warriors_of_the_symbol" }
+finnish_pagan = {
+﻿germanic_religion = {
+reserved_male_names = {
+Anund Asbjörn Aslak Audun Bagge Balder Brage Egil Emund Frej Gnupa Gorm Gudmund Gudröd Hardeknud Helge Odd Orm
+Orvar Ottar Rikulfr Rurik Sigbjörn Styrbjörn Starkad Styrkar Sämund Sölve Sörkver Thorolf Tjudmund Toke Tolir
+Torbjörn Torbrand Torfinn Torgeir Toste Tyke
+reserved_female_names = {
+Aslaug Bothild Björg Freja Grima Gytha Kráka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde
+{ name = "holy_order_jomsvikings" }
+{ name = "holy_order_faithful_of_tyr" }
+{ name = "holy_order_odins_valkyries" }
+{ name = "holy_order_chosen_of_freyja" }
+norse_pagan = {
+﻿hellenism_religion = {
+{ name = "holy_order_myrmidons" }
+{ name = "holy_order_priesthood_of_ares" }
+hellenic_pagan = {
+﻿hinduism_religion = {
+temperate
+content
+honest
+wrathful
+ambitious
+{ name = "holy_order_followers_of_arjuna" }
+{ name = "holy_order_faith_maharatas" }
+{ name = "holy_order_vyuha_of_highgod" }
+{ name = "holy_order_vyuha_of_the_temple_of_place" }
+{ name = "holy_order_maharatas_of_highgod" }
+vaishnavism = {
+advaitism = {
+shaivism = {
+srikula_shaktism = {
+kalikula_shaktism = {
+smartism = {
+krishnaism = {
+﻿islam_religion = {
+reserved_male_names = {
+Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Akbar Allahyar Ali Ali-Fay Ali-Kolon Ali-Zalil Hasan Hossein Hussayn Ismail Mahmud Mohammed Muammar Muhammad
+{ name = "holy_order_mujahideen_of_place" }
+{ name = "holy_order_warriors_of_the_hadith" }
+{ name = "holy_order_ghazis_of_place" }
+{ name = "holy_order_warriors_of_the_wahy" }
+{ name = "holy_order_sahabi_of_place" }
+{ name = "holy_order_companions_of_hira" }
+piety_icon_group = "islam"
+ashari = { #Arabian Sunni Islam
+religious_head = d_sunni
+muwalladi = { # Iberian Sunni Islam
+maturidi = { # Persian Sunni Islam
+masmudi = { # Reformist Sunni Islam (Almohads)
+religious_head = d_masmudi
+mutazila = { # Rationalist school of Sunni Islam. Dominant between 8th and 10th centuries in the Abbassid Caliphate (Persia).
+quranist = {
+ismaili = { #Seveners (default Shia)
+religious_head = d_shiite
+qarmatian = { #A branch of the Isma'ili with syncretic Zoroastrian elements
+nizari = {
+{ name = "holy_order_hashshashin" }
+zayidi = {
+imami = { #Twelver
+ghulat = {
+alawite = {
+alevi = {
+{ name = "holy_order_bektashi_order" }
+druze = {
+ibadi = {
+{ name = "holy_order_haruriyya" }
+azariqa = {
+najdat = {
+sufri = {
+﻿jainism_religion = {
+{ name = "holy_order_bulls_of_rishabha" }
+{ name = "holy_order_jivas_of_madhya_loka" }
+{ name = "holy_order_guardians_of_the_lotus_ocean" }
+{ name = "holy_order_sacrifices_of_devloka" }
+digambara = {
+svetambara = {
+yapaniya = {
+﻿judaism_religion = {
+reserved_male_names = {
+Belet Ezra Hanukkah Hezekiah Isaac Levi Manasseh Nisi Simeon Yavdi Zebulun
+reserved_female_names = {
+Adah Adinah Alte Asnat Batya Bilha Chana Chava Devorah Esther Gisse Hadassah Leah Machla Miriam Puah Peninah Rachel Rivkah Ruth Sarah Tamar Tirtzah Tzipporah Tziviah Yael Yehudit Yiska Yocheved Yonah
+{ name = "holy_order_zealots_of_place_1" coat_of_arms = "ho_zealots" }
+{ name = "holy_order_herem_warriors" }
+{ name = "holy_order_zealots_of_place_1" }
+rabbinism = {
+religious_head = d_rabbinism
+karaism = {
+religious_head = d_karaism
+haymanot = {
+religious_head = d_haymanot
+malabarism = {
+religious_head = d_malabarism
+samaritan = {
+religious_head = d_samaritan
+kabarism = {
+religious_head = d_kabarism
+﻿
+kushitism_religion = {
+{ name = "holy_order_guardians_of_divinerealm" }
+{ name = "holy_order_faithful_of_highgod" }
+{ name = "holy_order_warriors_of_the_symbol" }
+kushitism_pagan = {
+﻿magyar_religion = {
+{ name = holy_order_taltos_of_the_field }
+{ name = holy_order_faithful_of_highgod }
+{ name = holy_order_warriors_of_the_symbol }
+magyar_pagan = {
+﻿mundhum_religion = {
+{ name = "holy_order_warriors_of_mundhum" }
+{ name = "holy_order_warriors_of_highgod" }
