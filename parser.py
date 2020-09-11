@@ -19,6 +19,10 @@ traits = {}
 religions = {}
 faiths = {}
 
+# Decisions
+# Detect decisions with non-matching internal ids.
+decisions = {}
+
 # Parse localization file
 def parse_names(filename):
     names.clear()
@@ -377,6 +381,53 @@ def print_empires():
                        ', '.join(dejure_kingdoms), dutchies, counties, empire, capital))
     outfile.write("|}")
 
+def print_decisions():
+    outfile = open("decision.txt", "w", encoding='utf8')
+    outfile.write('{| class="mildtable"\n'
+                  '! Decision\n'
+                  '! Internal name\n')
+
+    new_names = {}
+    excluded = [
+        'recently_took_tribal_challenge_ruler_decision'
+        ]
+
+    # Edit names for readability (localization, scopes)
+    for decision in names.keys():
+        new_value = names[decision]
+        new_value = new_value.replace('[ROOT.Char.GetLiege.GetTitleAsNameNoTooltip|U]', 'Ruler')
+        new_value = new_value.replace("[ROOT.Char.Custom('DogStoryName')]", 'Dog')
+        new_value = new_value.replace("[ROOT.Char.Custom('CatStoryName')]", 'Cat')
+        new_value = new_value.replace('$c_roma$', 'Roma')
+        new_value = new_value.replace("[ROOT.Char.Custom2('RelationToMe', ROOT.Var('ancestor_to_bury').Char)|U]", "Ancestor")
+        new_value = new_value.replace("[ROOT.Char.GetLiege.GetGovernment.GetNameNoTooltip]", 'Feudal / Clan')
+        new_value = new_value.replace("[ROOT.Char.Custom('GetTribalReformGovernment')|U]", 'Feudal / Clan')
+        new_value = new_value.replace('[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]', "Faith")
+        new_value = new_value.replace('[ROOT.Char.GetFaith.GetNameNoTooltip]', "Faith")
+        new_value = new_value.replace("$magyar_pagan$", "Táltoism")
+        new_value = new_value.replace('[ROOT.Char.GetFaith.HighGodName]', 'High God')
+        new_value = new_value.replace('$knight_culture_player_plural_no_tooltip$', 'Knights')
+        new_value = new_value.replace('$bosnian_church$', 'Krstjani')
+
+        if decision not in excluded:
+            new_names[decision] = new_value
+
+    for decision in new_names.keys():
+        if decision.endswith('decision'):
+            decision_id = decision[:-9]
+            
+            decision_name = new_names[decision]
+            decision_name = decision_name.replace(' ', '_')
+            decision_name = decision_name.lower()
+            # Mark disimilar decision names
+            if decision_name != decision_id:
+                outfile.write('|-\n'
+                              '| {} || {}\n'.format(new_names[decision], decision_id)
+                              )
+    outfile.write("|}")
+    print("Completed writing decisions to file.")
+            
+
 def print_traits():
     outfile = open("traits.txt", "w", encoding='utf8')
     outfile.write('')
@@ -415,5 +466,7 @@ if False:
     parse_names('traits_l_english')
     print_traits()
 
-parse_holy_orders()
+    parse_holy_orders()
 
+parse_names('decisions_l_english')
+print_decisions()

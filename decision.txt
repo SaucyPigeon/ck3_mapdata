@@ -1,0 +1,154 @@
+{| class="mildtable"
+! Decision
+! Internal name
+|-
+| Call Hunt || start_hunt
+|-
+| Search for Physician || hire_physician
+|-
+| Borrow Gold from Holy Order || borrow_from_holy_order
+|-
+| Challenge the Ruler || tribal_challenge_ruler
+|-
+| Stop Gaining Weight || stop_gain_weight
+|-
+| Stop Losing Weight || stop_lose_weight
+|-
+| Attempt Suicide || commit_suicide
+|-
+| Return Roma || return_rome
+|-
+| Determine Bhakti || select_personal_deity
+|-
+| Give Your Ancestor a Sky Burial || give_sky_burial
+|-
+| Raise a Runestone || raise_runestone
+|-
+| Found Holy Order || create_holy_order
+|-
+| Revoke Holy Order Lease || cancel_holy_order_lease
+|-
+| Go on a Pilgrimage || go_on_pilgrimage
+|-
+| Undertake the Hajj || go_on_hajj
+|-
+| Restore the Kingdom of Cornwall || restore_dumnonia
+|-
+| Restore the Roman Empire || restore_roman_empire
+|-
+| Restore the Roman Empire || restore_roman_empire_holy
+|-
+| Reclaim Constantinople || set_capital_constantinople
+|-
+| Reclaim Rome || set_capital_rome
+|-
+| Restore the Papacy || restore_papacy
+|-
+| Form the Swiss Confederation || form_switzerland_kingdom
+|-
+| Form Archduchy of Austria || form_austria_kingdom
+|-
+| Dismantle the Papacy || dismantle_papacy
+|-
+| Restore Carolingian Borders || reform_carolingian_empire
+|-
+| Unify the Burgundies || unify_burgundy_kingdom
+|-
+| Unify Italy || unify_italian_empire
+|-
+| Adopt Feudalism || convert_to_feudalism
+|-
+| Adopt Feudal / Clan Ways through Liege || convert_to_feudalism_liege_converted
+|-
+| Adopt Feudal / Clan Ways || convert_whole_realm_to_feudalism
+|-
+| Form the Outremer Empire || create_outremer_empire
+|-
+| Sell Minor Titles || sale_of_titles
+|-
+| Restore the Ash'ari Caliphate || restore_sunni_caliphate
+|-
+| Restore Israel || create_israel_kingdom
+|-
+| Restore the Faith High Priesthood || jewish_restore_high_priesthood
+|-
+| Restore the Faith High Priesthood || zoroastrian_restore_high_priesthood
+|-
+| Become the Saoshyant || become_saoshyant
+|-
+| Restore the Roman Empire || restore_roman_empire_italian
+|-
+| Dismantle German Pretenders || dismantle_holy_pretender
+|-
+| Dismantle Greek Pretenders || dismantle_byz_pretender
+|-
+| Form the Sultanate of Rum || form_rum_sultanate
+|-
+| Revive Greater Armenia || create_armenian_empire
+|-
+| Consecrate Bloodline || declare_bloodline_holy
+|-
+| Build a Grand Church || build_grand_church
+|-
+| Faith Cannibalism || accept_cannibalism
+|-
+| Request Claim on Ireland || england_request_laudabiliter
+|-
+| Inspire Opus Francigenum || promote_gothic_innovations
+|-
+| Build a Glass Monument || lunatic_building
+|-
+| Promote Christian Settlements || promote_hungarian_settlement
+|-
+| Revive Táltoism || revive_magyar_paganism
+|-
+| Unite the West Slavs || unite_the_western_slavs
+|-
+| Unite the South Slavs || unite_the_southern_slavs
+|-
+| Defenders of High God || defenders_of_highgod
+|-
+| Found a New Kingdom || found_kingdom
+|-
+| Found a New Empire || found_empire
+|-
+| Amnesty for False Conversions || encourage_confession_of_false_conversions
+|-
+| Restore the Holy Roman Empire || restore_holy_roman_empire
+|-
+| Adopt Special Succession Type || adopt_special_succession
+|-
+| Found the Kingdom of Aragon || form_the_kingdom_of_aragon
+|-
+| Indulge in Drink || stress_loss_drunkard
+|-
+| Consume Hashish Cakes || stress_loss_hashishiyah
+|-
+| Visit a Brothel || stress_loss_rakish
+|-
+| Seclude Yourself || stress_loss_reclusive
+|-
+| Lash Out || stress_loss_irritable
+|-
+| Flagellate || stress_loss_flagellant
+|-
+| Visit the Market || stress_loss_profligate
+|-
+| Donate to Charity || stress_loss_improvident
+|-
+| Confess || stress_loss_contrite
+|-
+| Indulge in Food || stress_loss_comfort_eater
+|-
+| Shun Food || stress_loss_inappetetic
+|-
+| Write Thoughts Down || stress_loss_journaller
+|-
+| Talk to Confidant || stress_loss_confider
+|-
+| Work off Some Stress || stress_loss_athletic
+|-
+| Accuse the Krstjani of Heresy || accuse_krstjani_of_heresy
+|-
+| Prepare to Cross the Carpathians || launch_hungarian_migration
+|}
