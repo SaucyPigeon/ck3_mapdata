@@ -1,0 +1,1 @@
+| religious relations = [[File:Task religious relations.png|alt={{#if:{{{alt|}}}|Religious relations}}|link=|{{{w|24px}}}]]

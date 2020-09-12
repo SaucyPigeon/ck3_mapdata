@@ -1,0 +1,8 @@
+| castle = [[File:Holding castle.png|alt={{#if:{{{alt|}}}|Castle}}|link=|{{{w|24px}}}]]
+| city = [[File:Holding city.png|alt={{#if:{{{alt|}}}|City}}|link=|{{{w|24px}}}]]
+| clerical appointment = [[File:Doctrine clerical succession.png|alt={{#if:{{{alt|}}}|Clerical appointment}}|link=|{{{w|24px}}}]]
+| clerical function = [[File:Doctrine clerical function.png|alt={{#if:{{{alt|}}}|Clerical function}}|link=|{{{w|24px}}}]]
+| clerical gender = [[File:Doctrine clerical gender.png|alt={{#if:{{{alt|}}}|Clerical gender}}|link=|{{{w|24px}}}]]
+| clerical marriage = [[File:Doctrine clerical marriage.png|alt={{#if:{{{alt|}}}|Clerical marriage}}|link=|{{{w|24px}}}]]
+| collect taxes = [[File:Task collect taxes.png|alt={{#if:{{{alt|}}}|Collect taxes}}|link=|{{{w|24px}}}]]
+| convert faith = [[File:Task conversion.png|alt={{#if:{{{alt|}}}|Convert faith in county}}|link=|{{{w|24px}}}]]

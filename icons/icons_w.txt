@@ -1,0 +1,1 @@
+| witchcraft = [[File:Doctrine witchcraft.png|alt={{#if:{{{alt|}}}|Witchcraft}}|link=|{{{w|24px}}}]]

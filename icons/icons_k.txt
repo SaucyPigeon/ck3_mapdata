@@ -1,0 +1,1 @@
+| kinslaying = [[File:Doctrine kinslaying.png|alt={{#if:{{{alt|}}}|Kinslaying}}|link=|{{{w|24px}}}]]

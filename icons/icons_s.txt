@@ -1,0 +1,6 @@
+| same-sex relations = [[File:Doctrine homosexuality.png|alt={{#if:{{{alt|}}}|Same-sex relations}}|link=|{{{w|24px}}}]]
+| stewardship lifestyle = [[File:Stewardship lifestyle.png|alt={{#if:{{{alt|}}}|Stewardship lifestyle}}|link=|{{{w|24px}}}]]
+| stress level 1 = [[File:Stress level 1.png|alt={{#if:{{{alt|}}}|Stress level 1}}|link=|{{{w|24px}}}]]
+| stress level 2 = [[File:Stress level 2.png|alt={{#if:{{{alt|}}}|Stress level 2}}|link=|{{{w|24px}}}]]
+| stress level 3 = [[File:Stress level 3.png|alt={{#if:{{{alt|}}}|Stress level 3}}|link=|{{{w|24px}}}]]
+| support schemes = [[File:Task support schemes.png|alt={{#if:{{{alt|}}}|Support schemes}}|link=|{{{w|24px}}}]]

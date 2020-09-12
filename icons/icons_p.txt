@@ -1,0 +1,1 @@
+| promote culture = [[File:Task promote culture.png|alt={{#if:{{{alt|}}}|Promote culture}}|link=|{{{w|24px}}}]]

@@ -1,0 +1,98 @@
+{{box wrapper}}
+{|class="wikitable" style="width:250px; float:left; margin-right: 10px;"
+! colspan=2 | AUTO-GENERATED
+|-
+| castle || width=30px | {{icon|castle}}
+|-
+| city || {{icon|city}}
+|-
+| clerical appointment || {{icon|clerical appointment}}
+|-
+| clerical function || {{icon|clerical function}}
+|-
+| clerical gender || {{icon|clerical gender}}
+|-
+| clerical marriage || {{icon|clerical marriage}}
+|-
+| collect taxes || {{icon|collect taxes}}
+|-
+| convert faith || {{icon|convert faith}}
+|-
+| dead || {{icon|dead}}
+|-
+| deviancy || {{icon|deviancy}}
+|-
+| diplomacy lifestyle || {{icon|diplomacy lifestyle}}
+|-
+| disrupt schemes || {{icon|disrupt schemes}}
+|-
+| divorce || {{icon|divorce}}
+|-
+| domestic affairs || {{icon|domestic affairs}}
+|-
+| fabricate claim || {{icon|fabricate claim}}
+|-
+| female adultery || {{icon|female adultery}}
+|-
+| find secrets || {{icon|find secrets}}
+|-
+| foreign affairs || {{icon|foreign affairs}}
+|-
+| increase control || {{icon|increase control}}
+|-
+| increase development || {{icon|increase development}}
+|-
+| integrate title || {{icon|integrate title}}
+|-
+| intrigue lifestyle || {{icon|intrigue lifestyle}}
+|-
+| kinslaying || {{icon|kinslaying}}
+|-
+| learning lifestyle || {{icon|learning lifestyle}}
+|-
+| level 1 crown authority || {{icon|level 1 crown authority}}
+|-
+| level 1 tribal authority || {{icon|level 1 tribal authority}}
+|-
+| level 2 crown authority || {{icon|level 2 crown authority}}
+|-
+| level 2 tribal authority || {{icon|level 2 tribal authority}}
+|-
+| level 3 crown authority || {{icon|level 3 crown authority}}
+|-
+| level 3 tribal authority || {{icon|level 3 tribal authority}}
+|-
+| level 4 crown authority || {{icon|level 4 crown authority}}
+|-
+| level 4 tribal authority || {{icon|level 4 tribal authority}}
+|-
+| male adultery || {{icon|male adultery}}
+|-
+| martial lifestyle || {{icon|martial lifestyle}}
+|-
+| organize levies || {{icon|organize levies}}
+|-
+| promote culture || {{icon|promote culture}}
+|-
+| religious relations || {{icon|religious relations}}
+|-
+| same-sex relations || {{icon|same-sex relations}}
+|-
+| stewardship lifestyle || {{icon|stewardship lifestyle}}
+|-
+| stress level 1 || {{icon|stress level 1}}
+|-
+| stress level 2 || {{icon|stress level 2}}
+|-
+| stress level 3 || {{icon|stress level 3}}
+|-
+| support schemes || {{icon|support schemes}}
+|-
+| temple || {{icon|temple}}
+|-
+| train commanders || {{icon|train commanders}}
+|-
+| tribe || {{icon|tribe}}
+|-
+| witchcraft || {{icon|witchcraft}}
+|}

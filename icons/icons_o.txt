@@ -1,0 +1,1 @@
+| organize levies = [[File:Task organize levies.png|alt={{#if:{{{alt|}}}|Organize levies}}|link=|{{{w|24px}}}]]

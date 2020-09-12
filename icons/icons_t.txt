@@ -1,0 +1,3 @@
+| temple = [[File:Holding church.png|alt={{#if:{{{alt|}}}|Temple}}|link=|{{{w|24px}}}]]
+| train commanders = [[File:Task train commanders.png|alt={{#if:{{{alt|}}}|Train commanders}}|link=|{{{w|24px}}}]]
+| tribe = [[File:Holding tribal.png|alt={{#if:{{{alt|}}}|Tribe}}|link=|{{{w|24px}}}]]

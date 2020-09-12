@@ -1,0 +1,6 @@
+| dead = [[File:Natural death.png|alt={{#if:{{{alt|}}}|Dead}}|link=|{{{w|24px}}}]]
+| deviancy = [[File:Doctrine deviancy.png|alt={{#if:{{{alt|}}}|Deviancy}}|link=|{{{w|24px}}}]]
+| diplomacy lifestyle = [[File:Diplomacy lifestyle.png|alt={{#if:{{{alt|}}}|Diplomacy lifestyle}}|link=|{{{w|24px}}}]]
+| disrupt schemes = [[File:Task disrupt schemes.png|alt={{#if:{{{alt|}}}|Disrupt schemes}}|link=|{{{w|24px}}}]]
+| divorce = [[File:Doctrine divorce.png|alt={{#if:{{{alt|}}}|Divorce doctrine}}|link=|{{{w|24px}}}]]
+| domestic affairs = [[File:Task domestic affairs.png|alt={{#if:{{{alt|}}}|Domestic affairs}}|link=|{{{w|24px}}}]]

@@ -1,0 +1,51 @@
+castle,Castle,Holding castle
+tribe,Tribe,Holding tribal
+city,City,Holding city
+temple,Temple,Holding church
+stress level 1,Stress Level 1,Stress_level_1
+stress level 2,Stress Level 2,Stress_level_2
+stress level 3,Stress Level 3,Stress_level_3
+religious relations,Religious Relations,Task_religious_relations
+convert faith,Convert Faith in County,Task_conversion
+fabricate claim,Fabricate Claim on County,Task_fabricate_claim
+foreign affairs,Foreign Affairs,Task_foreign_affairs
+domestic affairs,Domestic Affairs,Task_domestic_affairs
+integrate title,Integrate Title,Task_integrate_title
+collect taxes,Collect Taxes,Task_collect_taxes
+increase development,Increase Development,Task_develop_county
+promote culture,Promote Culture,Task_promote_culture
+organize levies,Organize Levies,Task_organize_levies
+train commanders,Train Commanders,Task_train_commanders
+increase control,Increase Control,Task_increase_control
+disrupt schemes,Disrupt Schemes,Task_disrupt_schemes
+support schemes,Support Schemes,Task_support_schemes
+find secrets,Find Secrets,Task_find_secrets
+dead,Dead,Natural death
+diplomacy lifestyle,Diplomacy Lifestyle,Diplomacy_lifestyle
+martial lifestyle,martial Lifestyle,martial_lifestyle
+stewardship lifestyle,stewardship Lifestyle,stewardship_lifestyle
+intrigue lifestyle,intrigue Lifestyle,intrigue_lifestyle
+learning lifestyle,learning Lifestyle,learning_lifestyle
+level 1 crown authority,Level 1 Crown Authority,Crown authority 0
+level 2 crown authority,Level 2 Crown Authority,Crown authority 1
+level 3 crown authority,Level 3 Crown Authority,Crown authority 2
+level 4 crown authority,Level 4 Crown Authority,Crown authority 3
+level 1 tribal authority,Level 1 Tribal Authority,Tribal authority 0
+level 2 tribal authority,Level 2 Tribal Authority,Tribal authority 1
+level 3 tribal authority,Level 3 Tribal Authority,Tribal authority 2
+level 4 tribal authority,Level 4 Tribal Authority,Tribal authority 3
+divorce,Divorce doctrine,Doctrine_divorce
+same-sex relations,Same-sex relations,Doctrine_homosexuality
+male adultery,Male adultery,Doctrine_adultery_men
+female adultery,Female adultery,Doctrine_adultery_women
+deviancy,Deviancy,Doctrine_deviancy
+witchcraft,Witchcraft,Doctrine_witchcraft
+kinslaying,Kinslaying,Doctrine_kinslaying
+clerical function,Clerical function,Doctrine_clerical_function
+clerical marriage,Clerical marriage,Doctrine_clerical_marriage
+Clerical appointment,Clerical appointment,Doctrine_clerical_succession
+Clerical gender,Clerical gender,Doctrine_clerical_gender
+#modifiers
+#faiths
+#pagan/eastern/muslim devotion
+#[[File:Default cb.png|24px]] Claim
