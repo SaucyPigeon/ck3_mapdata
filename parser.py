@@ -126,7 +126,6 @@ def parse_titles():
                                             titles[key_e][key_k][key_d][key_c][key_b] = \
                                                 titles_tree[key_e][key_k][key_d][key_c][key_b]["province"]
 
-
 def parse_religion(filename):
     religions_tree = pyradox.txt.parse_file(
         filename,
@@ -351,35 +350,43 @@ def print_kingdoms():
 
 def print_empires():
     outfile = open("empires.txt", "w", encoding='utf8')
-    outfile.write('{| class="wikitable sortable mw-collapsible" style="text-align: left;"\n'
-                  '|+ De Jure Empires\n'
+    outfile.write('{| class="wikitable sortable" style="text-align: left;"\n'
                   '|-\n'
-                  '! rowspan="2" | Empire\n'
-                  '! rowspan="2" | [[kingdoms|Dejure Kingdoms]]\n'
-                  '! colspan="2" | [[Dutchies|Dutchies]]\n'                  
-                  '! colspan="2" | [[County|Counties]]\n'
-                  '! rowspan="2" | Special Conditions\n'
-                  '! rowspan="2" | ID\n'
-                  '! rowspan="2" | Capital\n')
+                  '! colspan=2 | [[Empire]]\n'
+                  '! [[Capital]]\n'
+                  '! [[Kingdoms|De jure kingdoms]]\n'
+                  '! Special requirements\n'
+                  '! AI additional requirements\n'
+                  '! ID\n'
+                  '! Alternate names\n')
+
+    empires = {}
     for empire in titles.keys():
+        empires[empire] = names[empire]
+    empires_in_order = sorted(empires.items(), key=lambda x: x[1])
+
+    for empire in empires_in_order:
         dejure_kingdoms = []
         dutchies = 0
         counties = 0
-        for kingdom in titles[empire].keys():
+        for kingdom in titles[empire[0]].keys():
             dejure_kingdoms.append(names[kingdom])
-            for dutchy in titles[empire][kingdom].keys():
-                dutchies = dutchies + 1
-                for county in titles[empire][kingdom][dutchy].keys():
-                    counties = counties + 1
 
+        # Get this list alphabetical
+        dejure_kingdoms.sort()
+        
         capital = "None"
-        if capitals[empire] in names.keys():
-            capital = names[capitals[empire]]
-        outfile.write('|-\n!style = "background-color:rgb({},{},{})" | {}\n | {} || align="right"| {} || '
-                      'align="right"| {} ||  || {} || {}\n'.format(
-                       colors[empire][0], colors[empire][1], colors[empire][2], names[empire],
-                       ', '.join(dejure_kingdoms), dutchies, counties, empire, capital))
+        if capitals[empire[0]] in names.keys():
+            capital = names[capitals[empire[0]]]
+        outfile.write('|-\n| rowspan=1 style="width: 2px; background-color: rgb({}, {}, {});" |\n| rowspan=1 style="text-align: left;" scope="row" | {}\n| {}\n| {}\n| {}\n| {}\n| {}\n| {}\n'.format(
+            colors[empire[0]][0], colors[empire[0]][1], colors[empire[0]][2], names[empire[0]], capital, ", ".join(dejure_kingdoms), "", "", empire[0], ""
+            ))
+            
+        #colors[empire[0]][0], colors[empire[0]][1], colors[empire[0]][2]
+        # <span style="background-color:rgb({}, {}, {})">{}</span>
+                  
     outfile.write("|}")
+    print("Completed writing empires to file.")
 
 def print_decisions():
     outfile = open("decision.txt", "w", encoding='utf8')
@@ -452,21 +459,27 @@ def print_traits():
     print("Completed writing traits to file.")
 
 
+
 if False:
     parse_titles()
     parse_dev()
     parse_special()
-    parse_names('titles_l_english')
     #print_baronies()
     print_counties()
     print_dutchies()
     print_kingdoms()
-    print_empires()
+
 
     parse_names('traits_l_english')
     print_traits()
 
     parse_holy_orders()
 
+parse_titles()
+parse_dev()
+parse_special()
+parse_names('titles_l_english')
+print_empires()
+ 
 parse_names('decisions_l_english')
 print_decisions()
