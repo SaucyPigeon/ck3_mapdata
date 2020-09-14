@@ -24,17 +24,27 @@ faiths = {}
 decisions = {}
 
 # Parse localization file
-def parse_names(filename):
-    names.clear()
-    name_file = open(
-        'C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\localization\english\\' + filename + '.yml',
+def parse_names(filename, clear=False):
+    root =  'C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\localization\english\\'
+    if clear:
+        names.clear()
+    files = []
+    if filename == 'all':
+        for x in glob.glob(os.path.join(root, '*.yml')):
+            files.append(x)
+    else:
+        files.append(root + filename + ".yml")
+    for file in files:
+        name_file = open(
+        file,
         "r", encoding='utf8')
-    for line in name_file:
-        words = line.split()
-        if len(words) > 1:
-            key = words[0][:-2]
-            value = " ".join(words[1:]).strip('"')
-            names[key] = value
+    
+        for line in name_file:
+            words = line.split()
+            if len(words) > 1:
+                key = words[0][:-2]
+                value = " ".join(words[1:]).strip('"')
+                names[key] = value
 
 def parse_dev():
     folder_path = 'C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\game\history\\titles'
@@ -396,7 +406,8 @@ def print_decisions():
 
     new_names = {}
     excluded = [
-        'recently_took_tribal_challenge_ruler_decision'
+        'recently_took_tribal_challenge_ruler_decision',
+        'action_take_decision'
         ]
 
     # Edit names for readability (localization, scopes)
@@ -417,7 +428,8 @@ def print_decisions():
         new_value = new_value.replace('$bosnian_church$', 'Krstjani')
 
         if decision not in excluded:
-            new_names[decision] = new_value
+            if "game_concept" not in decision:
+                new_names[decision] = new_value
 
     for decision in new_names.keys():
         if decision.endswith('decision'):
@@ -428,8 +440,11 @@ def print_decisions():
             decision_name = decision_name.lower()
             # Mark disimilar decision names
             if decision_name != decision_id:
+                format_name = new_names[decision]
+                if decision == "Amnesty for False Conversions":
+                    format_name = format_name + ("unused")
                 outfile.write('|-\n'
-                              '| {} || {}\n'.format(new_names[decision], decision_id)
+                              '| {} || {}\n'.format(format_name, decision_id)
                               )
     outfile.write("|}")
     print("Completed writing decisions to file.")
@@ -475,11 +490,13 @@ if False:
 
     parse_holy_orders()
 
-parse_titles()
-parse_dev()
-parse_special()
-parse_names('titles_l_english')
-print_empires()
+if False:
+    parse_titles()
+    parse_dev()
+    parse_special()
+    parse_names('titles_l_english')
+    print_empires()
+
  
-parse_names('decisions_l_english')
+parse_names('all')
 print_decisions()
