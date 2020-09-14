@@ -33,6 +33,9 @@ for line in infile:
     name = name.lower()
 
     alt = data[1]
+    if len(alt) == 0:
+        alt = name
+        alt = alt.title()
     alt = alt.capitalize()
     
     image = data[2]
