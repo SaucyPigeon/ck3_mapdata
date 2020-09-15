@@ -1,1 +1,3 @@
-| kinslaying = [[File:Doctrine kinslaying.png|alt={{#if:{{{alt|}}}|Kinslaying}}|link=|{{{w|24px}}}]]
+| khandayats = [[File:Innovation maa 01.png|alt={{#if:{{{alt|}}}|Khandayats}}|link=|{{{w|24px}}}]]
+| knighthood = [[File:Innovation knight.png|alt={{#if:{{{alt|}}}|Knighthood}}|link=|{{{w|24px}}}]]
+| konni raids = [[File:Innovation special maa 01.png|alt={{#if:{{{alt|}}}|Konni Raids}}|link=|{{{w|24px}}}]]

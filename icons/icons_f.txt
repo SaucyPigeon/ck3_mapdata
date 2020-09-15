@@ -1,4 +1,1 @@
-| fabricate claim = [[File:Task fabricate claim.png|alt={{#if:{{{alt|}}}|Fabricate claim on county}}|link=|{{{w|24px}}}]]
-| female adultery = [[File:Doctrine adultery women.png|alt={{#if:{{{alt|}}}|Female adultery}}|link=|{{{w|24px}}}]]
-| find secrets = [[File:Task find secrets.png|alt={{#if:{{{alt|}}}|Find secrets}}|link=|{{{w|24px}}}]]
-| foreign affairs = [[File:Task foreign affairs.png|alt={{#if:{{{alt|}}}|Foreign affairs}}|link=|{{{w|24px}}}]]
+| forest wardens = [[File:Innovation special maa 02.png|alt={{#if:{{{alt|}}}|Forest Wardens}}|link=|{{{w|24px}}}]]

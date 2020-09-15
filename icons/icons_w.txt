@@ -1,1 +1,5 @@
-| witchcraft = [[File:Doctrine witchcraft.png|alt={{#if:{{{alt|}}}|Witchcraft}}|link=|{{{w|24px}}}]]
+| war camels = [[File:Innovation camel.png|alt={{#if:{{{alt|}}}|War Camels}}|link=|{{{w|24px}}}]]
+| west african canoes = [[File:Innovation majesty 01.png|alt={{#if:{{{alt|}}}|West African Canoes}}|link=|{{{w|24px}}}]]
+| wierdijks = [[File:Innovation civil construction 02.png|alt={{#if:{{{alt|}}}|Wierdijks}}|link=|{{{w|24px}}}]]
+| windmills = [[File:Innovation civil construction 01.png|alt={{#if:{{{alt|}}}|Windmills}}|link=|{{{w|24px}}}]]
+| wootz steel = [[File:Innovation weapons and armor 01.png|alt={{#if:{{{alt|}}}|Wootz Steel}}|link=|{{{w|24px}}}]]

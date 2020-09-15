@@ -2,97 +2,203 @@
 {|class="wikitable" style="width:250px; float:left; margin-right: 10px;"
 ! colspan=2 | AUTO-GENERATED
 |-
-| castle || width=30px | {{icon|castle}}
+| adaptive militia || width=30px | {{icon|adaptive militia}}
 |-
-| city || {{icon|city}}
+| advanced bowmaking || {{icon|advanced bowmaking}}
 |-
-| clerical appointment || {{icon|clerical appointment}}
+| alpine supremacy || {{icon|alpine supremacy}}
 |-
-| clerical function || {{icon|clerical function}}
+| arched saddle || {{icon|arched saddle}}
 |-
-| clerical gender || {{icon|clerical gender}}
+| armillary sphere || {{icon|armillary sphere}}
 |-
-| clerical marriage || {{icon|clerical marriage}}
+| bailiffs || {{icon|bailiffs}}
 |-
-| collect taxes || {{icon|collect taxes}}
+| banking || {{icon|banking}}
 |-
-| convert faith || {{icon|convert faith}}
+| bannus || {{icon|bannus}}
 |-
-| dead || {{icon|dead}}
+| barracks || {{icon|barracks}}
 |-
-| deviancy || {{icon|deviancy}}
+| battlements || {{icon|battlements}}
 |-
-| diplomacy lifestyle || {{icon|diplomacy lifestyle}}
+| bombards innovation || {{icon|bombards innovation}}
 |-
-| disrupt schemes || {{icon|disrupt schemes}}
+| burhs || {{icon|burhs}}
 |-
-| divorce || {{icon|divorce}}
+| bush hunting || {{icon|bush hunting}}
 |-
-| domestic affairs || {{icon|domestic affairs}}
+| caballeros || {{icon|caballeros}}
 |-
-| fabricate claim || {{icon|fabricate claim}}
+| castle baileys || {{icon|castle baileys}}
 |-
-| female adultery || {{icon|female adultery}}
+| casus belli innovation || {{icon|casus belli innovation}}
 |-
-| find secrets || {{icon|find secrets}}
+| cataphracts || {{icon|cataphracts}}
 |-
-| foreign affairs || {{icon|foreign affairs}}
+| chronicle writing || {{icon|chronicle writing}}
 |-
-| increase control || {{icon|increase control}}
+| chu-ko-nu || {{icon|chu-ko-nu}}
 |-
-| increase development || {{icon|increase development}}
+| coinage || {{icon|coinage}}
 |-
-| integrate title || {{icon|integrate title}}
+| communal government || {{icon|communal government}}
 |-
-| intrigue lifestyle || {{icon|intrigue lifestyle}}
+| compound bows || {{icon|compound bows}}
 |-
-| kinslaying || {{icon|kinslaying}}
+| condottieri || {{icon|condottieri}}
 |-
-| learning lifestyle || {{icon|learning lifestyle}}
+| court officials || {{icon|court officials}}
 |-
-| level 1 crown authority || {{icon|level 1 crown authority}}
+| cranes || {{icon|cranes}}
 |-
-| level 1 tribal authority || {{icon|level 1 tribal authority}}
+| crop rotation || {{icon|crop rotation}}
 |-
-| level 2 crown authority || {{icon|level 2 crown authority}}
+| currency || {{icon|currency}}
 |-
-| level 2 tribal authority || {{icon|level 2 tribal authority}}
+| deccan unity || {{icon|deccan unity}}
 |-
-| level 3 crown authority || {{icon|level 3 crown authority}}
+| defensive tactics || {{icon|defensive tactics}}
 |-
-| level 3 tribal authority || {{icon|level 3 tribal authority}}
+| desert mountain practices || {{icon|desert mountain practices}}
 |-
-| level 4 crown authority || {{icon|level 4 crown authority}}
+| desert tactics || {{icon|desert tactics}}
 |-
-| level 4 tribal authority || {{icon|level 4 tribal authority}}
+| divine right || {{icon|divine right}}
 |-
-| male adultery || {{icon|male adultery}}
+| druzhina || {{icon|druzhina}}
 |-
-| martial lifestyle || {{icon|martial lifestyle}}
+| elephantry || {{icon|elephantry}}
 |-
-| organize levies || {{icon|organize levies}}
+| ermine cloaks || {{icon|ermine cloaks}}
 |-
-| promote culture || {{icon|promote culture}}
+| forest wardens || {{icon|forest wardens}}
 |-
-| religious relations || {{icon|religious relations}}
+| gavelkind || {{icon|gavelkind}}
 |-
-| same-sex relations || {{icon|same-sex relations}}
+| ghilman || {{icon|ghilman}}
 |-
-| stewardship lifestyle || {{icon|stewardship lifestyle}}
+| guilds || {{icon|guilds}}
 |-
-| stress level 1 || {{icon|stress level 1}}
+| heraldry || {{icon|heraldry}}
 |-
-| stress level 2 || {{icon|stress level 2}}
+| hirds || {{icon|hirds}}
 |-
-| stress level 3 || {{icon|stress level 3}}
+| hoardings || {{icon|hoardings}}
 |-
-| support schemes || {{icon|support schemes}}
+| hobbies || {{icon|hobbies}}
 |-
-| temple || {{icon|temple}}
+| horseshoes || {{icon|horseshoes}}
 |-
-| train commanders || {{icon|train commanders}}
+| household soldiers || {{icon|household soldiers}}
 |-
-| tribe || {{icon|tribe}}
+| khandayats || {{icon|khandayats}}
 |-
-| witchcraft || {{icon|witchcraft}}
+| knighthood || {{icon|knighthood}}
+|-
+| konni raids || {{icon|konni raids}}
+|-
+| land grants || {{icon|land grants}}
+|-
+| ledger || {{icon|ledger}}
+|-
+| legionnaires || {{icon|legionnaires}}
+|-
+| longbow || {{icon|longbow}}
+|-
+| longships || {{icon|longships}}
+|-
+| machicolations || {{icon|machicolations}}
+|-
+| mangonels innovation || {{icon|mangonels innovation}}
+|-
+| manorialism || {{icon|manorialism}}
+|-
+| men-at-arms innovation || {{icon|men-at-arms innovation}}
+|-
+| mottes || {{icon|mottes}}
+|-
+| mountain skirmishing || {{icon|mountain skirmishing}}
+|-
+| mubarizun || {{icon|mubarizun}}
+|-
+| muladi || {{icon|muladi}}
+|-
+| mustering grounds || {{icon|mustering grounds}}
+|-
+| noblesse oblige || {{icon|noblesse oblige}}
+|-
+| onager || {{icon|onager}}
+|-
+| ostsiedlung || {{icon|ostsiedlung}}
+|-
+| peerage || {{icon|peerage}}
+|-
+| pike columns || {{icon|pike columns}}
+|-
+| planned assemblies || {{icon|planned assemblies}}
+|-
+| plate armor || {{icon|plate armor}}
+|-
+| primogeniture || {{icon|primogeniture}}
+|-
+| promissory notes || {{icon|promissory notes}}
+|-
+| public works || {{icon|public works}}
+|-
+| quilted armor || {{icon|quilted armor}}
+|-
+| reconquista || {{icon|reconquista}}
+|-
+| rectilinear schiltron || {{icon|rectilinear schiltron}}
+|-
+| renaissance thought || {{icon|renaissance thought}}
+|-
+| rightful ownership || {{icon|rightful ownership}}
+|-
+| royal armory || {{icon|royal armory}}
+|-
+| royal army tradition || {{icon|royal army tradition}}
+|-
+| royal prerogative || {{icon|royal prerogative}}
+|-
+| sahel horsemen || {{icon|sahel horsemen}}
+|-
+| sappers || {{icon|sappers}}
+|-
+| sarawit || {{icon|sarawit}}
+|-
+| scutage || {{icon|scutage}}
+|-
+| seigneurialism || {{icon|seigneurialism}}
+|-
+| stammesherzogtum || {{icon|stammesherzogtum}}
+|-
+| standing armies || {{icon|standing armies}}
+|-
+| table of princes || {{icon|table of princes}}
+|-
+| trebuchet innovaton || {{icon|trebuchet innovaton}}
+|-
+| upland skirmishing || {{icon|upland skirmishing}}
+|-
+| urbanization || {{icon|urbanization}}
+|-
+| valets || {{icon|valets}}
+|-
+| visigothic codes || {{icon|visigothic codes}}
+|-
+| war camels || {{icon|war camels}}
+|-
+| west african canoes || {{icon|west african canoes}}
+|-
+| wierdijks || {{icon|wierdijks}}
+|-
+| windmills || {{icon|windmills}}
+|-
+| wootz steel || {{icon|wootz steel}}
+|-
+| zbrojnosh || {{icon|zbrojnosh}}
+|-
+| zweihanders || {{icon|zweihanders}}
 |}

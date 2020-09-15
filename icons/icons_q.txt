@@ -1,0 +1,1 @@
+| quilted armor = [[File:Innovation weapons and armor 02.png|alt={{#if:{{{alt|}}}|Quilted Armor}}|link=|{{{w|24px}}}]]

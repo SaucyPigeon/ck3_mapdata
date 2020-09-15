@@ -1,0 +1,2 @@
+| valets = [[File:Innovation special maa 01.png|alt={{#if:{{{alt|}}}|Valets}}|link=|{{{w|24px}}}]]
+| visigothic codes = [[File:Innovation nobility 01.png|alt={{#if:{{{alt|}}}|Visigothic Codes}}|link=|{{{w|24px}}}]]

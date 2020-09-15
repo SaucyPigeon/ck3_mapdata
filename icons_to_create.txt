@@ -55,29 +55,29 @@ manorialism,,Innovation_fortifications
 royal prerogative,,Innovation_majesty_01
 arched saddle,,Innovation_knight
 battlements,,Innovation_fortifications
-burhs,,
-household soldiers,,
-horseshoes,,
-mangonels innovation,Mangonels (innovation)
-alpine supremacy,,
-caballeros,,
-cataphracts,,
-desert mountain practices,,
-druzhina,,
-hirds,,
-Khandayats,,
-Royal Army Tradition,,
-Ghilman,,
-Reconquista,,
-Stammesherzogtum,,
-banking,,
-divine right,,
-guilds,,
-heraldry,,
-land grants,,
-scutage,,
-urbanization,,
-windmills,,
+burhs,,Innovation_civil_construction_02
+household soldiers,,Innovation_maa_01
+horseshoes,,Innovation_weapons_and_armor_01
+mangonels innovation,Mangonels (innovation),Innovation_siege_weapons
+alpine supremacy,,Innovation_raised_banner
+caballeros,,Innovation_special_maa_01
+cataphracts,,Innovation_special_maa_01
+desert mountain practices,,Innovation_maa_02
+druzhina,,Innovation_special_maa_01
+hirds,,Innovation_maa_01
+Khandayats,,Innovation_maa_01
+Royal Army Tradition,,Innovation_special_maa_01
+Ghilman,,Innovation_maa_02
+Reconquista,,Innovation_leadership_02
+Stammesherzogtum,,Innovation_majesty_03
+banking,,Innovation_majesty_02
+divine right,,Innovation_majesty_03
+guilds,,Innovation_nobility_01
+heraldry,,Innovation_raised_banner
+land grants,,Innovation_administration_03
+scutage,,Innovation_leadership_02
+urbanization,,Innovation_civil_construction_02
+windmills,,Innovation_civil_construction_01
 advanced bowmaking,,Innovation_weapons_and_armor_01
 castle baileys,,Innovation_levy_building
 hoardings,,Innovation_fortifications

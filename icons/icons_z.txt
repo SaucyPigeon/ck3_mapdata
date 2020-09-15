@@ -1,0 +1,2 @@
+| zbrojnosh = [[File:Innovation maa 01.png|alt={{#if:{{{alt|}}}|Zbrojnosh}}|link=|{{{w|24px}}}]]
+| zweihanders = [[File:Innovation special maa 01.png|alt={{#if:{{{alt|}}}|Zweihanders}}|link=|{{{w|24px}}}]]

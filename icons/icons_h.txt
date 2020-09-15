@@ -1,0 +1,6 @@
+| heraldry = [[File:Innovation raised banner.png|alt={{#if:{{{alt|}}}|Heraldry}}|link=|{{{w|24px}}}]]
+| hirds = [[File:Innovation maa 01.png|alt={{#if:{{{alt|}}}|Hirds}}|link=|{{{w|24px}}}]]
+| hoardings = [[File:Innovation fortifications.png|alt={{#if:{{{alt|}}}|Hoardings}}|link=|{{{w|24px}}}]]
+| hobbies = [[File:Innovation special maa 02.png|alt={{#if:{{{alt|}}}|Hobbies}}|link=|{{{w|24px}}}]]
+| horseshoes = [[File:Innovation weapons and armor 01.png|alt={{#if:{{{alt|}}}|Horseshoes}}|link=|{{{w|24px}}}]]
+| household soldiers = [[File:Innovation maa 01.png|alt={{#if:{{{alt|}}}|Household Soldiers}}|link=|{{{w|24px}}}]]

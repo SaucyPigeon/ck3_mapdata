@@ -1,0 +1,3 @@
+| gavelkind = [[File:Innovation administration 03.png|alt={{#if:{{{alt|}}}|Gavelkind}}|link=|{{{w|24px}}}]]
+| ghilman = [[File:Innovation maa 02.png|alt={{#if:{{{alt|}}}|Ghilman}}|link=|{{{w|24px}}}]]
+| guilds = [[File:Innovation nobility 01.png|alt={{#if:{{{alt|}}}|Guilds}}|link=|{{{w|24px}}}]]

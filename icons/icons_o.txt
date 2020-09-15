@@ -1,1 +1,2 @@
-| organize levies = [[File:Task organize levies.png|alt={{#if:{{{alt|}}}|Organize levies}}|link=|{{{w|24px}}}]]
+| onager = [[File:Innovation siege weapons.png|alt={{#if:{{{alt|}}}|Onager}}|link=|{{{w|24px}}}]]
+| ostsiedlung = [[File:Innovation misc inventions.png|alt={{#if:{{{alt|}}}|Ostsiedlung}}|link=|{{{w|24px}}}]]

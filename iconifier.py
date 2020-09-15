@@ -22,12 +22,17 @@ icons = []
 
 
 infile = open(inputfile, 'r', encoding='utf8')
+line_counter = 0
 for line in infile:
+    line_counter = line_counter + 1
     if line.startswith('#'):
         continue
     formatted = line
     formatted = formatted.rstrip()
     data = formatted.split(',')
+    if len(data) != 3:
+        print("Unable to parse line " + str(line_counter) + " in file " + inputfile)
+        continue
 
     name = data[0]
     name = name.lower()
@@ -36,7 +41,11 @@ for line in infile:
     if len(alt) == 0:
         alt = name
         alt = alt.title()
-    alt = alt.capitalize()
+        print("Auto-generated alternative from name " + name + ": " + alt + ".")
+    alt_temp = alt
+    # Why does capitalize() also make other letters lowercase, what the actual hell.
+    alt_temp = alt_temp[0].upper() + alt_temp[1:]
+    alt = alt_temp
     
     image = data[2]
     image = image.replace('_', ' ')

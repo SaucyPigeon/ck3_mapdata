@@ -1,1 +1,7 @@
-| promote culture = [[File:Task promote culture.png|alt={{#if:{{{alt|}}}|Promote culture}}|link=|{{{w|24px}}}]]
+| peerage = [[File:Innovation nobility 03.png|alt={{#if:{{{alt|}}}|Peerage}}|link=|{{{w|24px}}}]]
+| pike columns = [[File:Innovation maa 01.png|alt={{#if:{{{alt|}}}|Pike Columns}}|link=|{{{w|24px}}}]]
+| planned assemblies = [[File:Innovation leadership 01.png|alt={{#if:{{{alt|}}}|Planned Assemblies}}|link=|{{{w|24px}}}]]
+| plate armor = [[File:Innovation weapons and armor 02.png|alt={{#if:{{{alt|}}}|Plate Armor}}|link=|{{{w|24px}}}]]
+| primogeniture = [[File:Innovation majesty 01.png|alt={{#if:{{{alt|}}}|Primogeniture}}|link=|{{{w|24px}}}]]
+| promissory notes = [[File:Innovation administration 01.png|alt={{#if:{{{alt|}}}|Promissory Notes}}|link=|{{{w|24px}}}]]
+| public works = [[File:Innovation civil construction 01.png|alt={{#if:{{{alt|}}}|Public Works}}|link=|{{{w|24px}}}]]

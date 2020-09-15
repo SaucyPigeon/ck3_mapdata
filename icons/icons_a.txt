@@ -1,0 +1,5 @@
+| adaptive militia = [[File:Innovation special maa 02.png|alt={{#if:{{{alt|}}}|Adaptive Militia}}|link=|{{{w|24px}}}]]
+| advanced bowmaking = [[File:Innovation weapons and armor 01.png|alt={{#if:{{{alt|}}}|Advanced Bowmaking}}|link=|{{{w|24px}}}]]
+| alpine supremacy = [[File:Innovation raised banner.png|alt={{#if:{{{alt|}}}|Alpine Supremacy}}|link=|{{{w|24px}}}]]
+| arched saddle = [[File:Innovation knight.png|alt={{#if:{{{alt|}}}|Arched Saddle}}|link=|{{{w|24px}}}]]
+| armillary sphere = [[File:Innovation misc inventions.png|alt={{#if:{{{alt|}}}|Armillary Sphere}}|link=|{{{w|24px}}}]]

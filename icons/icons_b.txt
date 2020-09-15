@@ -1,0 +1,8 @@
+| bailiffs = [[File:Innovation leadership 01.png|alt={{#if:{{{alt|}}}|Bailiffs}}|link=|{{{w|24px}}}]]
+| banking = [[File:Innovation majesty 02.png|alt={{#if:{{{alt|}}}|Banking}}|link=|{{{w|24px}}}]]
+| bannus = [[File:Innovation raised banner.png|alt={{#if:{{{alt|}}}|Bannus}}|link=|{{{w|24px}}}]]
+| barracks = [[File:Innovation levy building.png|alt={{#if:{{{alt|}}}|Barracks}}|link=|{{{w|24px}}}]]
+| battlements = [[File:Innovation fortifications.png|alt={{#if:{{{alt|}}}|Battlements}}|link=|{{{w|24px}}}]]
+| bombards innovation = [[File:Innovation siege weapons.png|alt={{#if:{{{alt|}}}|Bombards (innovation)}}|link=|{{{w|24px}}}]]
+| burhs = [[File:Innovation civil construction 02.png|alt={{#if:{{{alt|}}}|Burhs}}|link=|{{{w|24px}}}]]
+| bush hunting = [[File:Innovation special maa 02.png|alt={{#if:{{{alt|}}}|Bush Hunting}}|link=|{{{w|24px}}}]]
