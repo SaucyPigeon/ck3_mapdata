@@ -1,4 +1,5 @@
 import os
+import shutil
 
 inputfile = "icons_to_create.txt"
 outfile_icons = "icons/icons_$.txt"
@@ -19,6 +20,12 @@ class icon_datum:
         self.image = image
 
 icons = []
+# Clear existing generated icons.
+print("Clearing icons folder...")
+directory = 'icons'
+shutil.rmtree(directory)
+os.makedirs(directory)
+print("Old icons removed.")
 
 
 infile = open(inputfile, 'r', encoding='utf8')

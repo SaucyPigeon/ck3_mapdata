@@ -1,4 +1,0 @@
-| increase control = [[File:Task increase control.png|alt={{#if:{{{alt|}}}|Increase control}}|link=|{{{w|24px}}}]]
-| increase development = [[File:Task develop county.png|alt={{#if:{{{alt|}}}|Increase development}}|link=|{{{w|24px}}}]]
-| integrate title = [[File:Task integrate title.png|alt={{#if:{{{alt|}}}|Integrate title}}|link=|{{{w|24px}}}]]
-| intrigue lifestyle = [[File:Intrigue lifestyle.png|alt={{#if:{{{alt|}}}|Intrigue lifestyle}}|link=|{{{w|24px}}}]]
