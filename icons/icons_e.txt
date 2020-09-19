@@ -1,2 +1,0 @@
-| elephantry = [[File:Innovation elephant.png|alt={{#if:{{{alt|}}}|Elephantry}}|link=|{{{w|24px}}}]]
-| ermine cloaks = [[File:Innovation majesty 03.png|alt={{#if:{{{alt|}}}|Ermine Cloaks}}|link=|{{{w|24px}}}]]

@@ -1,5 +1,2 @@
-| land grants = [[File:Innovation administration 03.png|alt={{#if:{{{alt|}}}|Land Grants}}|link=|{{{w|24px}}}]]
-| ledger = [[File:Innovation administration 02.png|alt={{#if:{{{alt|}}}|Ledger}}|link=|{{{w|24px}}}]]
-| legionnaires = [[File:Innovation special maa 02.png|alt={{#if:{{{alt|}}}|Legionnaires}}|link=|{{{w|24px}}}]]
-| longbow = [[File:Innovation special maa 02.png|alt={{#if:{{{alt|}}}|Longbow}}|link=|{{{w|24px}}}]]
-| longships = [[File:Innovation misc inventions.png|alt={{#if:{{{alt|}}}|Longships}}|link=|{{{w|24px}}}]]
+| lollard = [[File:Religion christianity lollard.png|alt={{#if:{{{alt|}}}|Lollard}}|link=|{{{w|24px}}}]]
+| lollardy = [[File:Religion christianity lollard.png|alt={{#if:{{{alt|}}}|Lollardy}}|link=|{{{w|24px}}}]]

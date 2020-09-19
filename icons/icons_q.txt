@@ -1,1 +1,5 @@
-| quilted armor = [[File:Innovation weapons and armor 02.png|alt={{#if:{{{alt|}}}|Quilted Armor}}|link=|{{{w|24px}}}]]
+| qarmatian = [[File:Religion qarmatian.png|alt={{#if:{{{alt|}}}|Qarmatian}}|link=|{{{w|24px}}}]]
+| qarmatianism = [[File:Religion qarmatian.png|alt={{#if:{{{alt|}}}|Qarmatianism}}|link=|{{{w|24px}}}]]
+| quanzhen = [[File:Religion quanzhen.png|alt={{#if:{{{alt|}}}|Quanzhen}}|link=|{{{w|24px}}}]]
+| quranism = [[File:Religion quranist.png|alt={{#if:{{{alt|}}}|Quranism}}|link=|{{{w|24px}}}]]
+| quranist = [[File:Religion quranist.png|alt={{#if:{{{alt|}}}|Quranist}}|link=|{{{w|24px}}}]]

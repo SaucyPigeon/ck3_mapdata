@@ -1,2 +1,0 @@
-| upland skirmishing = [[File:Innovation maa 02.png|alt={{#if:{{{alt|}}}|Upland Skirmishing}}|link=|{{{w|24px}}}]]
-| urbanization = [[File:Innovation civil construction 02.png|alt={{#if:{{{alt|}}}|Urbanization}}|link=|{{{w|24px}}}]]

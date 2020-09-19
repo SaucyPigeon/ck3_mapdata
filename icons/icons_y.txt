@@ -1,0 +1,6 @@
+| yapaniya = [[File:Religion yapaniya.png|alt={{#if:{{{alt|}}}|Yapaniya}}|link=|{{{w|24px}}}]]
+| yazidi = [[File:Religion yazidism.png|alt={{#if:{{{alt|}}}|Yazidi}}|link=|{{{w|24px}}}]]
+| yazidism = [[File:Religion yazidism.png|alt={{#if:{{{alt|}}}|Yazidism}}|link=|{{{w|24px}}}]]
+| yumaism = [[File:Religion smartism.png|alt={{#if:{{{alt|}}}|Yumaism}}|link=|{{{w|24px}}}]]
+| yumaist = [[File:Religion smartism.png|alt={{#if:{{{alt|}}}|Yumaist}}|link=|{{{w|24px}}}]]
+| yumaite = [[File:Religion smartism.png|alt={{#if:{{{alt|}}}|Yumaite}}|link=|{{{w|24px}}}]]

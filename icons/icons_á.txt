@@ -1,0 +1,2 @@
+| ásatrú = [[File:Religion germanic.png|alt={{#if:{{{alt|}}}|Ásatrú}}|link=|{{{w|24px}}}]]
+| ásatrúan = [[File:Religion germanic.png|alt={{#if:{{{alt|}}}|Ásatrúan}}|link=|{{{w|24px}}}]]

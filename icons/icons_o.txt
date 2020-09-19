@@ -1,2 +1,4 @@
-| onager = [[File:Innovation siege weapons.png|alt={{#if:{{{alt|}}}|Onager}}|link=|{{{w|24px}}}]]
-| ostsiedlung = [[File:Innovation misc inventions.png|alt={{#if:{{{alt|}}}|Ostsiedlung}}|link=|{{{w|24px}}}]]
+| orisa = [[File:Religion yoruba.png|alt={{#if:{{{alt|}}}|Orisa}}|link=|{{{w|24px}}}]]
+| orisan = [[File:Religion yoruba.png|alt={{#if:{{{alt|}}}|Orisan}}|link=|{{{w|24px}}}]]
+| orthodox = [[File:Religion orthodox.png|alt={{#if:{{{alt|}}}|Orthodox}}|link=|{{{w|24px}}}]]
+| orthodoxy = [[File:Religion orthodox.png|alt={{#if:{{{alt|}}}|Orthodoxy}}|link=|{{{w|24px}}}]]

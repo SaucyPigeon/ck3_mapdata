@@ -2,203 +2,455 @@
 {|class="wikitable" style="width:250px; float:left; margin-right: 10px;"
 ! colspan=2 | AUTO-GENERATED
 |-
-| adaptive militia || width=30px | {{icon|adaptive militia}}
+| adamite || width=30px | {{icon|adamite}}
 |-
-| advanced bowmaking || {{icon|advanced bowmaking}}
+| adamitism || {{icon|adamitism}}
 |-
-| alpine supremacy || {{icon|alpine supremacy}}
+| advaita || {{icon|advaita}}
 |-
-| arched saddle || {{icon|arched saddle}}
+| advaita vedanta || {{icon|advaita vedanta}}
 |-
-| armillary sphere || {{icon|armillary sphere}}
+| advaita vedantin || {{icon|advaita vedantin}}
 |-
-| bailiffs || {{icon|bailiffs}}
+| akam || {{icon|akam}}
 |-
-| banking || {{icon|banking}}
+| akom || {{icon|akom}}
 |-
-| bannus || {{icon|bannus}}
+| alawi || {{icon|alawi}}
 |-
-| barracks || {{icon|barracks}}
+| alawism || {{icon|alawism}}
 |-
-| battlements || {{icon|battlements}}
+| alawite || {{icon|alawite}}
 |-
-| bombards innovation || {{icon|bombards innovation}}
+| alevi || {{icon|alevi}}
 |-
-| burhs || {{icon|burhs}}
+| alevism || {{icon|alevism}}
 |-
-| bush hunting || {{icon|bush hunting}}
+| almohadi || {{icon|almohadi}}
 |-
-| caballeros || {{icon|caballeros}}
+| almohadism || {{icon|almohadism}}
 |-
-| castle baileys || {{icon|castle baileys}}
+| apostolic || {{icon|apostolic}}
 |-
-| casus belli innovation || {{icon|casus belli innovation}}
+| arewordi || {{icon|arewordi}}
 |-
-| cataphracts || {{icon|cataphracts}}
+| arewordik || {{icon|arewordik}}
 |-
-| chronicle writing || {{icon|chronicle writing}}
+| ari || {{icon|ari}}
 |-
-| chu-ko-nu || {{icon|chu-ko-nu}}
+| asatru || {{icon|asatru}}
 |-
-| coinage || {{icon|coinage}}
+| asatruan || {{icon|asatruan}}
 |-
-| communal government || {{icon|communal government}}
+| ash'ari || {{icon|ash'ari}}
 |-
-| compound bows || {{icon|compound bows}}
+| ash'arism || {{icon|ash'arism}}
 |-
-| condottieri || {{icon|condottieri}}
+| azariqa || {{icon|azariqa}}
 |-
-| court officials || {{icon|court officials}}
+| azraqism || {{icon|azraqism}}
 |-
-| cranes || {{icon|cranes}}
+| bidaic || {{icon|bidaic}}
 |-
-| crop rotation || {{icon|crop rotation}}
+| bidaism || {{icon|bidaism}}
 |-
-| currency || {{icon|currency}}
+| bidaist || {{icon|bidaist}}
 |-
-| deccan unity || {{icon|deccan unity}}
+| bogomil || {{icon|bogomil}}
 |-
-| defensive tactics || {{icon|defensive tactics}}
+| bogomilism || {{icon|bogomilism}}
 |-
-| desert mountain practices || {{icon|desert mountain practices}}
+| bogomilist || {{icon|bogomilist}}
 |-
-| desert tactics || {{icon|desert tactics}}
+| bori || {{icon|bori}}
 |-
-| divine right || {{icon|divine right}}
+| cainite || {{icon|cainite}}
 |-
-| druzhina || {{icon|druzhina}}
+| cainitism || {{icon|cainitism}}
 |-
-| elephantry || {{icon|elephantry}}
+| cathar || {{icon|cathar}}
 |-
-| ermine cloaks || {{icon|ermine cloaks}}
+| catharism || {{icon|catharism}}
 |-
-| forest wardens || {{icon|forest wardens}}
+| catholic || {{icon|catholic}}
 |-
-| gavelkind || {{icon|gavelkind}}
+| catholicism || {{icon|catholicism}}
 |-
-| ghilman || {{icon|ghilman}}
+| converso || {{icon|converso}}
 |-
-| guilds || {{icon|guilds}}
+| conversos || {{icon|conversos}}
 |-
-| heraldry || {{icon|heraldry}}
+| copt || {{icon|copt}}
 |-
-| hirds || {{icon|hirds}}
+| coptic || {{icon|coptic}}
 |-
-| hoardings || {{icon|hoardings}}
+| digambara || {{icon|digambara}}
 |-
-| hobbies || {{icon|hobbies}}
+| donyi-polo ome || {{icon|donyi-polo ome}}
 |-
-| horseshoes || {{icon|horseshoes}}
+| donyi-poloism || {{icon|donyi-poloism}}
 |-
-| household soldiers || {{icon|household soldiers}}
+| donyi-poloist || {{icon|donyi-poloist}}
 |-
-| khandayats || {{icon|khandayats}}
+| donyipolo ome || {{icon|donyipolo ome}}
 |-
-| knighthood || {{icon|knighthood}}
+| donyipoloism || {{icon|donyipoloism}}
 |-
-| konni raids || {{icon|konni raids}}
+| donyipoloist || {{icon|donyipoloist}}
 |-
-| land grants || {{icon|land grants}}
+| druze || {{icon|druze}}
 |-
-| ledger || {{icon|ledger}}
+| gayomarthian || {{icon|gayomarthian}}
 |-
-| legionnaires || {{icon|legionnaires}}
+| gayomarthianism || {{icon|gayomarthianism}}
 |-
-| longbow || {{icon|longbow}}
+| gyur bon || {{icon|gyur bon}}
 |-
-| longships || {{icon|longships}}
+| gyur bonpo || {{icon|gyur bonpo}}
 |-
-| machicolations || {{icon|machicolations}}
+| gyur bön || {{icon|gyur bön}}
 |-
-| mangonels innovation || {{icon|mangonels innovation}}
+| gyur bönpo || {{icon|gyur bönpo}}
 |-
-| manorialism || {{icon|manorialism}}
+| haymanot || {{icon|haymanot}}
 |-
-| men-at-arms innovation || {{icon|men-at-arms innovation}}
+| hellenic || {{icon|hellenic}}
 |-
-| mottes || {{icon|mottes}}
+| hellenism || {{icon|hellenism}}
 |-
-| mountain skirmishing || {{icon|mountain skirmishing}}
+| hellenist || {{icon|hellenist}}
 |-
-| mubarizun || {{icon|mubarizun}}
+| ibadi || {{icon|ibadi}}
 |-
-| muladi || {{icon|muladi}}
+| ibadism || {{icon|ibadism}}
 |-
-| mustering grounds || {{icon|mustering grounds}}
+| iconoclasm || {{icon|iconoclasm}}
 |-
-| noblesse oblige || {{icon|noblesse oblige}}
+| iconoclast || {{icon|iconoclast}}
 |-
-| onager || {{icon|onager}}
+| ikhtilafi || {{icon|ikhtilafi}}
 |-
-| ostsiedlung || {{icon|ostsiedlung}}
+| ikhtilafism || {{icon|ikhtilafism}}
 |-
-| peerage || {{icon|peerage}}
+| imami || {{icon|imami}}
 |-
-| pike columns || {{icon|pike columns}}
+| imamism || {{icon|imamism}}
 |-
-| planned assemblies || {{icon|planned assemblies}}
+| insular || {{icon|insular}}
 |-
-| plate armor || {{icon|plate armor}}
+| insular christianity || {{icon|insular christianity}}
 |-
-| primogeniture || {{icon|primogeniture}}
+| insularist || {{icon|insularist}}
 |-
-| promissory notes || {{icon|promissory notes}}
+| isma'ili || {{icon|isma'ili}}
 |-
-| public works || {{icon|public works}}
+| isma'ilism || {{icon|isma'ilism}}
 |-
-| quilted armor || {{icon|quilted armor}}
+| kabar || {{icon|kabar}}
 |-
-| reconquista || {{icon|reconquista}}
+| kabarism || {{icon|kabarism}}
 |-
-| rectilinear schiltron || {{icon|rectilinear schiltron}}
+| kabarite || {{icon|kabarite}}
 |-
-| renaissance thought || {{icon|renaissance thought}}
+| kalikula || {{icon|kalikula}}
 |-
-| rightful ownership || {{icon|rightful ownership}}
+| kalikula shaktism || {{icon|kalikula shaktism}}
 |-
-| royal armory || {{icon|royal armory}}
+| kalikulaite || {{icon|kalikulaite}}
 |-
-| royal army tradition || {{icon|royal army tradition}}
+| karaism || {{icon|karaism}}
 |-
-| royal prerogative || {{icon|royal prerogative}}
+| karaite || {{icon|karaite}}
 |-
-| sahel horsemen || {{icon|sahel horsemen}}
+| khurmazdism || {{icon|khurmazdism}}
 |-
-| sappers || {{icon|sappers}}
+| khurmazta || {{icon|khurmazta}}
 |-
-| sarawit || {{icon|sarawit}}
+| khurramism || {{icon|khurramism}}
 |-
-| scutage || {{icon|scutage}}
+| khurramite || {{icon|khurramite}}
 |-
-| seigneurialism || {{icon|seigneurialism}}
+| khyarwe bon || {{icon|khyarwe bon}}
 |-
-| stammesherzogtum || {{icon|stammesherzogtum}}
+| khyarwe bonpo || {{icon|khyarwe bonpo}}
 |-
-| standing armies || {{icon|standing armies}}
+| khyarwé bön || {{icon|khyarwé bön}}
 |-
-| table of princes || {{icon|table of princes}}
+| khyarwé bönpo || {{icon|khyarwé bönpo}}
 |-
-| trebuchet innovaton || {{icon|trebuchet innovaton}}
+| kiratism || {{icon|kiratism}}
 |-
-| upland skirmishing || {{icon|upland skirmishing}}
+| kiratist || {{icon|kiratist}}
 |-
-| urbanization || {{icon|urbanization}}
+| kiratite || {{icon|kiratite}}
 |-
-| valets || {{icon|valets}}
+| kitebacilweism || {{icon|kitebacilweism}}
 |-
-| visigothic codes || {{icon|visigothic codes}}
+| kitebacilweist || {{icon|kitebacilweist}}
 |-
-| war camels || {{icon|war camels}}
+| kitêbacilweism || {{icon|kitêbacilweism}}
 |-
-| west african canoes || {{icon|west african canoes}}
+| kitêbacilweist || {{icon|kitêbacilweist}}
 |-
-| wierdijks || {{icon|wierdijks}}
+| krishnaism || {{icon|krishnaism}}
 |-
-| windmills || {{icon|windmills}}
+| krishnaite || {{icon|krishnaite}}
 |-
-| wootz steel || {{icon|wootz steel}}
+| krstjan || {{icon|krstjan}}
 |-
-| zbrojnosh || {{icon|zbrojnosh}}
+| krstjani || {{icon|krstjani}}
 |-
-| zweihanders || {{icon|zweihanders}}
+| kushite || {{icon|kushite}}
+|-
+| kushitism || {{icon|kushitism}}
+|-
+| kushitist || {{icon|kushitist}}
+|-
+| lollard || {{icon|lollard}}
+|-
+| lollardy || {{icon|lollardy}}
+|-
+| mahayana || {{icon|mahayana}}
+|-
+| mahayanan || {{icon|mahayanan}}
+|-
+| malabari || {{icon|malabari}}
+|-
+| malabarism || {{icon|malabarism}}
+|-
+| mandeaism || {{icon|mandeaism}}
+|-
+| mandean || {{icon|mandean}}
+|-
+| manichean || {{icon|manichean}}
+|-
+| manicheanism || {{icon|manicheanism}}
+|-
+| maturidi || {{icon|maturidi}}
+|-
+| maturidism || {{icon|maturidism}}
+|-
+| mazdakism || {{icon|mazdakism}}
+|-
+| mazdakite || {{icon|mazdakite}}
+|-
+| mazdayan || {{icon|mazdayan}}
+|-
+| mazdayasna || {{icon|mazdayasna}}
+|-
+| melie || {{icon|melie}}
+|-
+| melieist || {{icon|melieist}}
+|-
+| meshefaresism || {{icon|meshefaresism}}
+|-
+| meshefaresist || {{icon|meshefaresist}}
+|-
+| messalian || {{icon|messalian}}
+|-
+| messalianism || {{icon|messalianism}}
+|-
+| mu'tazili || {{icon|mu'tazili}}
+|-
+| mu'tazilism || {{icon|mu'tazilism}}
+|-
+| mu'tazilite || {{icon|mu'tazilite}}
+|-
+| muwalladi || {{icon|muwalladi}}
+|-
+| muwalladism || {{icon|muwalladism}}
+|-
+| najdat || {{icon|najdat}}
+|-
+| najdati || {{icon|najdati}}
+|-
+| najdatism || {{icon|najdatism}}
+|-
+| nangchos || {{icon|nangchos}}
+|-
+| nangchospo || {{icon|nangchospo}}
+|-
+| nestorian || {{icon|nestorian}}
+|-
+| nestorianism || {{icon|nestorianism}}
+|-
+| nizari || {{icon|nizari}}
+|-
+| nizarism || {{icon|nizarism}}
+|-
+| orisa || {{icon|orisa}}
+|-
+| orisan || {{icon|orisan}}
+|-
+| orthodox || {{icon|orthodox}}
+|-
+| orthodoxy || {{icon|orthodoxy}}
+|-
+| pagan || {{icon|pagan}}
+|-
+| paganism || {{icon|paganism}}
+|-
+| paulician || {{icon|paulician}}
+|-
+| paulicianism || {{icon|paulicianism}}
+|-
+| priscillianism || {{icon|priscillianism}}
+|-
+| priscillianist || {{icon|priscillianist}}
+|-
+| qarmatian || {{icon|qarmatian}}
+|-
+| qarmatianism || {{icon|qarmatianism}}
+|-
+| quanzhen || {{icon|quanzhen}}
+|-
+| quranism || {{icon|quranism}}
+|-
+| quranist || {{icon|quranist}}
+|-
+| rabbinic || {{icon|rabbinic}}
+|-
+| rabbinism || {{icon|rabbinism}}
+|-
+| rabbinist || {{icon|rabbinist}}
+|-
+| roog sene || {{icon|roog sene}}
+|-
+| roogan || {{icon|roogan}}
+|-
+| sabian || {{icon|sabian}}
+|-
+| sabianism || {{icon|sabianism}}
+|-
+| samaritan || {{icon|samaritan}}
+|-
+| samaritanism || {{icon|samaritanism}}
+|-
+| sedi ome || {{icon|sedi ome}}
+|-
+| sedism || {{icon|sedism}}
+|-
+| sedist || {{icon|sedist}}
+|-
+| sethian || {{icon|sethian}}
+|-
+| sethianism || {{icon|sethianism}}
+|-
+| sethianist || {{icon|sethianist}}
+|-
+| shaivism || {{icon|shaivism}}
+|-
+| shaivite || {{icon|shaivite}}
+|-
+| shangqing || {{icon|shangqing}}
+|-
+| siguic || {{icon|siguic}}
+|-
+| siguism || {{icon|siguism}}
+|-
+| siguist || {{icon|siguist}}
+|-
+| slovianska pravda || {{icon|slovianska pravda}}
+|-
+| slovianskan || {{icon|slovianskan}}
+|-
+| smarta || {{icon|smarta}}
+|-
+| smartism || {{icon|smartism}}
+|-
+| srikula || {{icon|srikula}}
+|-
+| srikula shaktism || {{icon|srikula shaktism}}
+|-
+| srikulaite || {{icon|srikulaite}}
+|-
+| sufri || {{icon|sufri}}
+|-
+| sufrism || {{icon|sufrism}}
+|-
+| suomenusko || {{icon|suomenusko}}
+|-
+| svetambara || {{icon|svetambara}}
+|-
+| taltosism || {{icon|taltosism}}
+|-
+| taltosist || {{icon|taltosist}}
+|-
+| tengri || {{icon|tengri}}
+|-
+| tengriism || {{icon|tengriism}}
+|-
+| tengriist || {{icon|tengriist}}
+|-
+| theravada || {{icon|theravada}}
+|-
+| theravadan || {{icon|theravadan}}
+|-
+| táltosism || {{icon|táltosism}}
+|-
+| táltosist || {{icon|táltosist}}
+|-
+| vaishnava || {{icon|vaishnava}}
+|-
+| vaishnavism || {{icon|vaishnavism}}
+|-
+| vaishnavite || {{icon|vaishnavite}}
+|-
+| vajrayana || {{icon|vajrayana}}
+|-
+| vajrayanan || {{icon|vajrayanan}}
+|-
+| valentinian || {{icon|valentinian}}
+|-
+| valentinianism || {{icon|valentinianism}}
+|-
+| vidilism || {{icon|vidilism}}
+|-
+| vidilist || {{icon|vidilist}}
+|-
+| vvluphimi || {{icon|vvluphimi}}
+|-
+| vvluphixje || {{icon|vvluphixje}}
+|-
+| vvluphixje || {{icon|vvluphixje}}
+|-
+| waaqi || {{icon|waaqi}}
+|-
+| waaqism || {{icon|waaqism}}
+|-
+| waaqist || {{icon|waaqist}}
+|-
+| waldensian || {{icon|waldensian}}
+|-
+| waldensianism || {{icon|waldensianism}}
+|-
+| yapaniya || {{icon|yapaniya}}
+|-
+| yazidi || {{icon|yazidi}}
+|-
+| yazidism || {{icon|yazidism}}
+|-
+| yumaism || {{icon|yumaism}}
+|-
+| yumaist || {{icon|yumaist}}
+|-
+| yumaite || {{icon|yumaite}}
+|-
+| zayidi || {{icon|zayidi}}
+|-
+| zayidism || {{icon|zayidism}}
+|-
+| zhengyi || {{icon|zhengyi}}
+|-
+| zunism || {{icon|zunism}}
+|-
+| zunist || {{icon|zunist}}
+|-
+| zurvanism || {{icon|zurvanism}}
+|-
+| zurvanite || {{icon|zurvanite}}
+|-
+| ásatrú || {{icon|ásatrú}}
+|-
+| ásatrúan || {{icon|ásatrúan}}
 |}

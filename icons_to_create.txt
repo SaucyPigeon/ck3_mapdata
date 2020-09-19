@@ -1,3 +1,5 @@
+# FORMAT,,
+# name,alt (if any),image,,
 #modifiers,,
 #faiths,,
 #pagan/eastern/muslim devotion,,
@@ -13,105 +15,256 @@
 
 # innovations,,
 
-casus belli innovation,Casus Belli (innovation),Innovation_administration_01
-city planning,,Innovation_civil_construction_02,
-crop rotation,,Innovation_levy_building
-currency,,Innovation_majesty_02
-gavelkind,,Innovation_administration_03
-ledger,,Innovation_administration_02
-Planned Assemblies,,Innovation_leadership_01
-public works,,Innovation_civil_construction_01
-bannus,,Innovation_raised_banner
-barracks,,Innovation_levy_building
-mottes,,Innovation_fortifications
-mustering grounds,,Innovation_leadership_02
-onager,,Innovation_siege_weapons
-quilted armor,,Innovation_weapons_and_armor_02
-bush hunting,,Innovation_special_maa_02
-chu-ko-nu,,Innovation_special_maa_02
-compound bows,,Innovation_special_maa_02
-defensive tactics,,Innovation_special_maa_01
-forest wardens,,Innovation_special_maa_02
-konni raids,,Innovation_special_maa_01
-mountain skirmishing,,Innovation_maa_02
-mubarizun,,Innovation_maa_02
-sahel horsemen,,Innovation_special_maa_01
-table of princes,,Innovation_nobility_01
-upland skirmishing,,Innovation_maa_02
-visigothic codes,,Innovation_nobility_01
-Zbrojnosh,,Innovation_maa_01
-elephantry,,Innovation_elephant
-longships,,Innovation_misc_inventions
-war camels,,Innovation_camel
-west african canoes,,Innovation_majesty_01
-wootz steel,,Innovation_weapons_and_armor_01
-armillary sphere,,Innovation_misc_inventions
-bailiffs,,Innovation_leadership_01
-chronicle writing,,Innovation_administration_03
-coinage,,Innovation_nobility_01
-communal government,,Innovation_nobility_03
-hereditary rule,,,Innovation_majesty_02
-manorialism,,Innovation_fortifications
-royal prerogative,,Innovation_majesty_01
-arched saddle,,Innovation_knight
-battlements,,Innovation_fortifications
-burhs,,Innovation_civil_construction_02
-household soldiers,,Innovation_maa_01
-horseshoes,,Innovation_weapons_and_armor_01
-mangonels innovation,Mangonels (innovation),Innovation_siege_weapons
-alpine supremacy,,Innovation_raised_banner
-caballeros,,Innovation_special_maa_01
-cataphracts,,Innovation_special_maa_01
-desert mountain practices,,Innovation_maa_02
-druzhina,,Innovation_special_maa_01
-hirds,,Innovation_maa_01
-Khandayats,,Innovation_maa_01
-Royal Army Tradition,,Innovation_special_maa_01
-Ghilman,,Innovation_maa_02
-Reconquista,,Innovation_leadership_02
-Stammesherzogtum,,Innovation_majesty_03
-banking,,Innovation_majesty_02
-divine right,,Innovation_majesty_03
-guilds,,Innovation_nobility_01
-heraldry,,Innovation_raised_banner
-land grants,,Innovation_administration_03
-scutage,,Innovation_leadership_02
-urbanization,,Innovation_civil_construction_02
-windmills,,Innovation_civil_construction_01
-advanced bowmaking,,Innovation_weapons_and_armor_01
-castle baileys,,Innovation_levy_building
-hoardings,,Innovation_fortifications
-knighthood,,Innovation_knight
-men-at-arms innovation,Men-at-Arms (innovation),Innovation_maa_02
-trebuchet innovaton,Trebuchet (innovation),Innovation_siege_weapons
-desert tactics,,Innovation_special_maa_02
-hobbies,,Innovation_special_maa_02
-pike columns,,Innovation_maa_01
-sarawit,,Innovation_maa_02
-muladi,,Innovation_nobility_02
-Ostsiedlung,,Innovation_misc_inventions
-peerage,,Innovation_nobility_03
-Seigneurialism,,Innovation_administration_01
-Court Officials,,Innovation_nobility_02
-cranes,,Innovation_civil_construction_01
-Ermine Cloaks,,Innovation_majesty_03
-Noblesse Oblige,,Innovation_nobility_01
-Primogeniture,,Innovation_majesty_01
-Promissory Notes,,Innovation_administration_01
-Renaissance Thought,,Innovation_misc_inventions
-Rightful Ownership,,Innovation_leadership_01
-Bombards innovation,Bombards (innovation),Innovation_siege_weapons
-Machicolations,,Innovation_fortifications
-Plate Armor,,Innovation_weapons_and_armor_02
-Royal Armory,,Innovation_levy_building
-Sappers,,Innovation_weapons_and_armor_01
-Standing Armies,,Innovation_leadership_02
-Adaptive Militia,,Innovation_special_maa_02
-Legionnaires,,Innovation_special_maa_02
-Longbow,,Innovation_special_maa_02
-Rectilinear Schiltron,,Innovation_special_maa_01
-Valets,,Innovation_special_maa_01
-Zweihanders,,Innovation_special_maa_01
-Condottieri,,Innovation_maa_01
-Deccan Unity,,Innovation_nobility_04
-Wierdijks,,Innovation_civil_construction_02
+Catholicism,,Religion_catholicism
+catholic,,Religion_catholicism
+Orthodoxy,,Religion_orthodox
+Orthodox,,Religion_orthodox
+Coptic,,Religion_coptic
+Copt,,Religion_coptic
+Apostolic,,Religion_christianity_armenian
+Insular Christianity,,Religion_insular_celtic
+Insular,,Religion_insular_celtic
+Insularist,,Religion_insular_celtic
+Krstjani,,Religion_bosnian_church
+Krstjan,,Religion_bosnian_church
+Conversos,,Religion_conversos
+Converso,,Religion_conversos
+Nestorianism,,Religion_nestorian
+Nestorian,,Religion_nestorian
+Bogomilism,,Religion_christianity_bogomilist
+Bogomilist,,Religion_christianity_bogomilist
+Bogomil,,Religion_christianity_bogomilist
+Catharism,,Religion_christianity_cathar
+Cathar,,Religion_christianity_cathar
+Iconoclasm,,Religion_christianity_iconoclasm
+Iconoclast,,Religion_christianity_iconoclasm
+Lollardy,,Religion_christianity_lollard
+Lollard,,Religion_christianity_lollard
+Paulicianism,,Religion_christianity_paulicanism
+Paulician,,Religion_christianity_paulicanism
+Waldensianism,,Religion_christianity_waldensian
+Waldensian,,Religion_christianity_waldensian
+Messalianism,,Religion_christianity_messalian
+Messalian,,Religion_christianity_messalian
+Adamitism,,Religion_adamites
+Adamite,,Religion_adamites
+
+
+Ash'arism,,Religion_sunni
+Ash'ari,,Religion_sunni
+Muwalladism,,Religion_muwalladi
+Muwalladi,,Religion_muwalladi
+Maturidism,,Religion_maturidi
+Maturidi,,Religion_maturidi
+Almohadism,,Religion_ashari
+Almohadi,,Religion_ashari
+Mu'tazilism,,Religion_mutazila
+Mu'tazili,,Religion_mutazila
+Mu'tazilite,,Religion_mutazila
+Isma'ilism,,Religion_shia
+Isma'ili,,Religion_shia
+Zayidism,,Religion_zayidi
+Zayidi,,Religion_zayidi
+Nizarism,,Religion_nizari
+Nizari,,Religion_nizari
+Imamism,,Religion_imami
+Imami,,Religion_imami
+Ibadism,,Religion_ibadi
+Ibadi,,Religion_ibadi
+Najdatism,,Religion_nadjat
+Najdat,,Religion_nadjat
+Najdati,,Religion_nadjat
+Azraqism,,Religion_azariqa
+Azariqa,,Religion_azariqa
+Sufrism,,Religion_muhakkima
+Sufri,,Religion_muhakkima
+Druze,,Religion_islam_druze
+Alawism,,Religion_alawite
+Alawite,,Religion_alawite
+Alawi,,Religion_alawite
+Alevism,,Religion_alevi
+Alevi,,Religion_alevi
+Ikhtilafism,,Religion_ghulat
+Ikhtilafi,,Religion_ghulat
+Qarmatianism,,Religion_qarmatian
+Qarmatian,,Religion_qarmatian
+Quranism,,Religion_quranist
+Quranist,,Religion_quranist
+
+
+Kabarism,,Religion_kabarism
+Kabarite,,Religion_kabarism
+Kabar,,Religion_kabarism
+Haymanot,,Religion_judaism
+Karaism,,Religion_karaism
+Karaite,,Religion_karaism
+Rabbinism,,Religion_rabbinism
+Rabbinic,,Religion_rabbinism
+Rabbinist,,Religion_rabbinism
+Samaritanism,,Religion_samaritan
+Samaritan,,Religion_samaritan
+Malabarism,,Religion_malabarism
+Malabari,,Religion_malabarism
+Manicheanism,,Religion_manichean
+Manichean,,Religion_manichean
+Cainitism,,Religion_cainitism
+Cainite,,Religion_cainitism
+Mandeaism,,Religion_dualism
+Mandean,,Religion_dualism
+Priscillianism,,Religion_priscillianism
+Priscillianist,,Religion_priscillianism
+Sabianism,,Religion_sabianism
+Sabian,,Religion_sabianism
+Sethianism,,Religion_sethianism
+Sethian,,Religion_sethianism
+Sethianist,,Religion_sethianism
+Valentinianism,,Religion_valentinianism
+Valentinian,,Religion_valentinianism
+Kitêbacilweism,,Religion_kitebacilweism
+Kitebacilweism,Kitêbacilweism,Religion_kitebacilweism
+Kitêbacilweist,,Religion_kitebacilweism
+Kitebacilweist,Kitêbacilweist,Religion_kitebacilweism
+Meshefaresism,,Religion_meshefaresism
+Meshefaresist,,Religion_meshefaresism
+Yazidism,,Religion_yazidism
+Yazidi,,Religion_yazidism
+
+
+Nangchos,,Religion_lamaism_buddhism
+Nangchospo,,Religion_lamaism_buddhism
+
+Vajrayana,,Religion_vajrayana
+Vajrayanan,,Religion_vajrayana
+
+Theravada,,Religion_buddhism
+Theravadan,,Religion_buddhism
+
+Mahayana,,Religion_mahayana
+Mahayanan,,Religion_mahayana
+
+Ari,,Religion_ari_buddhism
+Shaivism,,Religion_shaivism
+Shaivite,,Religion_shaivism
+
+Vaishnavism,,Religion_hinduism
+Vaishnavite,,Religion_hinduism
+Vaishnava,,Religion_hinduism
+
+Krishnaism,,Religion_krishnaism
+Krishnaite,,Religion_krishnaism
+
+Smartism,,Religion_smartism
+smarta,,Religion_smartism
+
+Advaita Vedanta,,Religion_advaitism
+Advaita,,Religion_advaitism
+Advaita Vedantin,,Religion_advaitism
+
+Srikula Shaktism,,Religion_srikula_shaktism
+Srikula,,Religion_srikula_shaktism
+Srikulaite,,Religion_srikula_shaktism
+
+Kalikula Shaktism,,Religion_kalikula_shaktism
+Kalikula,,Religion_kalikula_shaktism
+Kalikulaite,,Religion_kalikula_shaktism
+
+Digambara,,Religion_jainism
+Svetambara,,Religion_svetambara
+Yapaniya,,Religion_yapaniya
+Mazdayasna,,Religion_zoroastrian
+Mazdayan,,Religion_zoroastrian
+
+Zurvanism,,Religion_zurvanism
+Zurvanite,,Religion_zurvanism
+
+Gayomarthianism,,Religion_gayomarthianism
+Gayomarthian,,Religion_gayomarthianism
+
+Khurmazdism,,Religion_khurmazta
+Khurmazta,,Religion_khurmazta
+
+Khurramism,,Religion_khurramism
+Khurramite,,Religion_khurramism
+
+Arewordik,,Religion_urartuism
+Arewordi,,Religion_urartuism
+
+Mazdakism,,Religion_mazdakism
+Mazdakite,,Religion_mazdakism
+
+
+Quanzhen,,Religion_quanzhen
+Shangqing,,Religion_shangqing
+Zhengyi,,Religion_taoism
+Gyur Bön,,Religion_bon
+Gyur Bon,Gyur Bön,Religion_bon
+Gyur Bönpo,,Religion_bon
+Gyur Bonpo,Gyur Bönpo,Religion_bon
+Khyarwé Bön,,Religion_spirit_bon
+Khyarwe Bon,Khyarwé Bön,Religion_spirit_bon
+Khyarwé Bönpo,,Religion_spirit_bon
+Khyarwe Bonpo,Khyarwé Bönpo,Religion_spirit_bon
+Siguism,,Religion_mande
+Siguic,,Religion_mande
+Siguist,,Religion_mande
+Bidaism,,Religion_west_african
+Bidaic,,Religion_west_african
+Bidaist,,Religion_west_african
+Vvluphixje,,Religion_rrmeaism
+Vvluphixje,,Religion_rrmeaism
+Vvluphimi,,Religion_rrmeaism
+Melie,,Religion_melieism
+Melieist,,Religion_melieism
+Donyi-Poloism,,Religion_donyipoloism
+DonyiPoloism,Donyi-Poloism,Religion_donyipoloism
+Donyi-Poloist,,Religion_donyipoloism
+DonyiPoloist,Donyi-Poloist,Religion_donyipoloism
+Donyi-Polo Ome,,Religion_donyipoloism
+DonyiPolo Ome,Donyi-Polo Ome,Religion_donyipoloism
+Sedism,,Religion_sedism
+Sedist,,Religion_sedism
+Sedi Ome,,Religion_sedism
+Kiratism,,Religion_kalikula_shaktism
+Kiratist,,Religion_kalikula_shaktism
+Kiratite,,Religion_kalikula_shaktism
+Yumaism,,Religion_smartism
+Yumaist,,Religion_smartism
+Yumaite,,Religion_smartism
+
+
+Bori,,Religion_west_african_bori
+Tengriism,,Religion_tengri
+Tengri,,Religion_tengri
+Tengriist,,Religion_tengri
+Suomenusko,,Religion_finno_ugric
+Slovianska Pravda,,Religion_slavic
+Slovianskan,,Religion_slavic
+Waaqism,,Religion_waaqism
+Waaqi,,Religion_waaqism
+Waaqist,,Religion_waaqism
+Orisa,,Religion_yoruba
+Orisan,,Religion_yoruba
+Akom,,Religion_akanism
+Akam,,Religion_akanism
+Vidilism,,Religion_baltic
+Vidilist,,Religion_baltic
+Kushitism,,Religion_kushism
+Kushite,,Religion_kushism
+Kushitist,,Religion_kushism
+Roog Sene,,Religion_west_african_roog_sene
+Roogan,,Religion_west_african_roog_sene
+Ásatrú,,Religion_germanic
+asatru,Ásatrú,Religion_germanic
+Ásatrúan,,Religion_germanic
+asatruan,Ásatrúan,Religion_germanic
+Táltosism,,Religion_pagan_magyar
+Taltosism,Táltosism,Religion_pagan_magyar
+Táltosist,,Religion_pagan_magyar
+Taltosist,Táltosist,Religion_pagan_magyar
+Hellenism,,Religion_hellenic
+Hellenic,,Religion_hellenic
+Hellenist,,Religion_hellenic
+Zunism,,Religion_zunist
+Zunist,,Religion_zunist
+Paganism,,Religion_pagan
+Pagan,,Religion_pagan
