@@ -189,18 +189,23 @@ def print_baronies():
 
 def print_counties():
     outfile = open("counties.txt", "w", encoding='utf8')
-    outfile.write('{| class="wikitable sortable mw-collapsible" style="text-align: left;"\n'
-                  '|+ Counties\n'
+    outfile.write('{| class="wikitable sortable" style="text-align: left;"\n'
                   '|-\n'
-                  '! rowspan="2" | County\n'
-                  '! rowspan="2" | [[Dutchies|Dutchy]]\n'
-                  '! rowspan="2" | [[Kingdoms|Kingdom]]\n'
-                  '! rowspan="2" | [[Empires|Empire]]\n'
-                  '! rowspan="2" | [[Barony|Baronies]]\n'
-                  '! colspan="2" | [[Development]]\n'
-                  '! rowspan="2" | [[Barony#Buildings|Special Buildings/Slots]]\n'
-                  '! rowspan="2" | ID\n'
+                  '! colspan="2" rowspan="2" | County\n'
+                  '! rowspan="2" | Duchy\n'
+                  '! rowspan="2" | Kingdom\n'
+                  '! rowspan="2" | Empire\n'
+                  '! rowspan="2" | Baronies\n'
+                  '! rowspan="2" | Special buildings/slots\n
+                  '! colspan="2" | Development\n'
+                  '! colspan="2" | Culture\n'
+                  '! colspan="2" | Religion\n'
+                  '! rowspan="2" | Title ID\n'
                   '|-\n'
+                  '! 867\n'
+                  '! 1066\n'
+                  '! 867\n'
+                  '! 1066\n'
                   '! 867\n'
                   '! 1066\n')
     for empire in titles.keys():
@@ -234,6 +239,20 @@ def print_counties():
                         barony_id = int(titles[empire][kingdom][dutchy][county][barony])
                         if(barony_id in list(special.keys()) and special[barony_id] > 0):
                             special_buildings = special_buildings + special[barony_id]
+
+                    lines = [
+                        '|- id="{}"'.format(names[county])
+                        '{{title with color|{}|{}|{}|{}}}'.format(names[county], colors[county][0], colors[county][1], colors[county][2])
+                        '| {}'.format(names[dutchy])
+                        '| {}'.format(names[kingdom])
+                        '| {}'.format(names[empire])
+                        '| {}'.format(str(baronies))
+                        
+                        ]
+                    for line in lines:
+                        outfile.write(line + "\n")
+
+                    outfile.write('|-\n')
 
                     outfile.write('|-\n!style = "background-color:rgb({},{},{})" | {}\n | {} || {} || '
                                       '{} || align="right"| {} || align="right"| {} || align="right"| {} || '
