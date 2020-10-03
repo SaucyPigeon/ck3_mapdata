@@ -202,34 +202,47 @@ print("Found " + str(len(province_rgb)) + " provinces total.")
 # Create province outlines
 print("Generating province outlines (this will take some time.)")
 
-img = cv2.imread("provinces no water.png")
-#imgray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
-img_c = np.copy(img)
-for province_color in province_rgb:
-    province_id = province_rgb[province_color]
-    if province_id == 0:
-        continue
-    if province_id in province_types:
-        if province_types[province_id] == "water":
+def foo():
+    img = cv2.imread("provinces no water.png")
+    #imgray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+    img_c = np.copy(img)
+    for province_color in province_rgb:
+        province_id = province_rgb[province_color]
+        if province_id == 0:
             continue
-    r = province_color[0]
-    g = province_color[1]
-    b = province_color[2]
-    # bgr
-    np_array = np.array([b, g, r])
-    # convert to hsv
-    np_array = cv2.cvtColor(np_array, cv2.COLOR_BGR2HSV)
-    mask = cv2.inRange(hsv, np_array, np_array)
-    _, contours = cv2.findContours(mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+        if province_id in province_types:
+            if province_types[province_id] == "water":
+                continue
+        r = province_color[0]
+        g = province_color[1]
+        b = province_color[2]
+        # bgr
+        np_array = np.array([b, g, r])
+        # convert to hsv
+        np_array = cv2.cvtColor(np_array, cv2.COLOR_BGR2HSV)
+        mask = cv2.inRange(hsv, np_array, np_array)
+        _, contours = cv2.findContours(mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 
-    print(contours)
+        print(contours)
 
-    if contours:
-        print(str(len(contours)))
-    
-    cv2.drawContours(img_c, contours, -1, (0, 255, 0), 1)
-cv2.imwrite("contours.png", img_c)
+        if contours:
+            print(str(len(contours)))
+        
+        cv2.drawContours(img_c, contours, -1, (0, 255, 0), 1)
+    cv2.imwrite("contours.png", img_c)
+
+def bar():
+    img = cv2.imread("test outline input.png")
+    imgray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    ret, thresh = cv2.threshold(imgray, 127, 255, 0)
+    contours, _ = cv2.findContours(thresh, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
+    background = np.full((imgray.shape[0], imgray.shape[1]), dtype= 'uint8', fill_value=255)
+    background = cv2.dilate(background, np.ones((31, 31), np.uint8), iterations=1)
+    background = cv2.bitwise_and(background, cv2.bitwise_not(imgray))
+    cv2.drawContours(background, contours, -1, (0, 0, 0), 1)
+    cv2.imwrite("contour.png", background)
+
     
     
 #ret, thresh = cv2.threshold(imgray, 1, 255, cv2.THRESH_BINARY)
